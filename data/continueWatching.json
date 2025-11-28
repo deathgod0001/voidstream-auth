@@ -30,16 +30,6 @@
     "updatedAt": "2025-11-28T14:55:20.123Z"
   },
   {
-    "id": "621368ca-425c-46fd-90b2-5e228554e344",
-    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
-    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
-    "tmdbId": 452759,
-    "mediaType": "movie",
-    "progress": 0,
-    "lastPositionSeconds": 0,
-    "updatedAt": "2025-11-28T15:08:03.604Z"
-  },
-  {
     "id": "fb9a25d7-2360-489a-b4b8-15f849ee4a22",
     "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
     "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
