@@ -6,5 +6,13 @@
     "tmdbId": 1084242,
     "mediaType": "movie",
     "addedAt": "2025-11-28T14:31:45.844Z"
+  },
+  {
+    "id": "663c7955-b7d0-4715-8b9c-2e1ca71f1a72",
+    "userId": "563b7569-54b5-4f8d-8951-c273241a19b6",
+    "profileId": "af28df6d-548d-47f7-b9c7-a6d006401ffd",
+    "tmdbId": 113281,
+    "mediaType": "tv",
+    "addedAt": "2025-11-28T19:28:18.334Z"
   }
 ]
