@@ -54,5 +54,13 @@
     "tmdbId": 1419406,
     "mediaType": "movie",
     "watchedAt": "2025-11-28T19:29:32.830Z"
+  },
+  {
+    "id": "ca0c3dd7-58b3-43b4-a43f-7a48832c484f",
+    "userId": "563b7569-54b5-4f8d-8951-c273241a19b6",
+    "profileId": "af28df6d-548d-47f7-b9c7-a6d006401ffd",
+    "tmdbId": 1419406,
+    "mediaType": "movie",
+    "watchedAt": "2025-11-28T19:29:57.927Z"
   }
 ]
