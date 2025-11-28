@@ -4,5 +4,11 @@
     "email": "lordrishab24@gmail.com",
     "passwordHash": "$2b$10$vvmsqfjory5YS45B./TvouvYoPgXA6iuVgtnylMvUVuI.gOMrldga",
     "createdAt": "2025-11-28T14:17:11.679Z"
+  },
+  {
+    "id": "09be1e1e-54ff-4e8d-93e6-3df1368e9fe0",
+    "email": "Venzi@gmail.com",
+    "passwordHash": "$2b$10$2k5YCxPZSEV6zwl.UG3w6OrNAvcjHXdEV/vCqOKwQ8m6yKrcOw8i2",
+    "createdAt": "2025-11-28T19:22:09.643Z"
   }
 ]
