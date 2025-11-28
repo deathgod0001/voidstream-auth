@@ -10,5 +10,11 @@
     "email": "Venzi@gmail.com",
     "passwordHash": "$2b$10$2k5YCxPZSEV6zwl.UG3w6OrNAvcjHXdEV/vCqOKwQ8m6yKrcOw8i2",
     "createdAt": "2025-11-28T19:22:09.643Z"
+  },
+  {
+    "id": "563b7569-54b5-4f8d-8951-c273241a19b6",
+    "email": "potangina@gmail.com",
+    "passwordHash": "$2b$10$cTaahc9WjhSRr.2KJdocAeS6wHJLUFZMzYAHfMylOGCDE2.AKPcNy",
+    "createdAt": "2025-11-28T19:27:07.928Z"
   }
 ]
