@@ -78,5 +78,12 @@
     "displayName": "VoidStream User",
     "avatarColor": "bg-purple-600",
     "createdAt": "2025-11-29T10:57:49.097Z"
+  },
+  {
+    "id": "839add8f-3b94-462e-ab2b-58002eef16e4",
+    "userId": "c1fcb972-be38-411d-b91b-cd246108b96e",
+    "displayName": "VoidStream User",
+    "avatarColor": "bg-purple-600",
+    "createdAt": "2025-11-29T18:16:40.693Z"
   }
 ]
