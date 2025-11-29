@@ -98,5 +98,15 @@
     "progress": 0,
     "lastPositionSeconds": 0,
     "updatedAt": "2025-11-29T02:49:34.960Z"
+  },
+  {
+    "id": "e82b0c78-bebd-4d95-9049-bddf7495d0b3",
+    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
+    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
+    "tmdbId": 463843,
+    "mediaType": "movie",
+    "progress": 0,
+    "lastPositionSeconds": 0,
+    "updatedAt": "2025-11-29T04:30:02.890Z"
   }
 ]
