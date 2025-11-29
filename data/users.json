@@ -40,5 +40,11 @@
     "email": "arshbhardwaj141@gmail.com",
     "passwordHash": "$2b$10$.XW0CVoVFHO9OlulxZFtYOknUIUkeJXtGYPafACUYT2rQV6e/.7Ma",
     "createdAt": "2025-11-29T05:44:04.437Z"
+  },
+  {
+    "id": "d2072b6b-7b2f-4043-aa91-1208b0aaf858",
+    "email": "choppermd@gmail.com",
+    "passwordHash": "$2b$10$OLQjkujcGZMmn7qihArzU.n60zkAj.EH7/H.xnOiz6OfyE2ZmkRvS",
+    "createdAt": "2025-11-29T06:21:14.751Z"
   }
 ]
