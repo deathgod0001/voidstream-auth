@@ -52,5 +52,11 @@
     "email": "amanbalhara011@gmail.com",
     "passwordHash": "$2b$10$5L1BFklsAuSMl77ytV88NOs.tKs8ntfggwZ3.6avKlEOwGyAKkWf2",
     "createdAt": "2025-11-29T08:01:11.590Z"
+  },
+  {
+    "id": "12b5adbb-18c4-4aa9-add7-d4751a6f2de4",
+    "email": "sitjarronileman@gmail.com",
+    "passwordHash": "$2b$10$vXtzAwYiM1rgevfBT2CJaeP1miEXPGcssDfba6lC3NT.rvy9CY43K",
+    "createdAt": "2025-11-29T10:57:48.604Z"
   }
 ]
