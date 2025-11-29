@@ -16,5 +16,11 @@
     "email": "potangina@gmail.com",
     "passwordHash": "$2b$10$cTaahc9WjhSRr.2KJdocAeS6wHJLUFZMzYAHfMylOGCDE2.AKPcNy",
     "createdAt": "2025-11-28T19:27:07.928Z"
+  },
+  {
+    "id": "709ada96-1b85-45a7-bd8c-a8c558a7962b",
+    "email": "joshuamancenido1@gmail.com",
+    "passwordHash": "$2b$10$qyklbC3VY4zJ7jMqNcPXyOPMRKJyqmp/t9dSq6pdBRz55vIx9YCMG",
+    "createdAt": "2025-11-29T02:33:41.422Z"
   }
 ]
