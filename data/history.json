@@ -358,5 +358,13 @@
     "tmdbId": 66732,
     "mediaType": "tv",
     "watchedAt": "2025-11-29T20:02:31.450Z"
+  },
+  {
+    "id": "1dc1ab93-44aa-4b29-823b-bc288863ebf9",
+    "userId": "afb38b6a-29ff-4b95-b7c3-8c6f21fca29b",
+    "profileId": "1f73dcdf-c955-4db4-8a76-8cefa956f736",
+    "tmdbId": 94605,
+    "mediaType": "tv",
+    "watchedAt": "2025-11-29T20:05:51.438Z"
   }
 ]
