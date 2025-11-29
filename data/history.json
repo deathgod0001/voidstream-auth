@@ -152,22 +152,6 @@
     "watchedAt": "2025-11-29T05:43:21.046Z"
   },
   {
-    "id": "780046c8-0230-47e4-ae83-01c20e608e55",
-    "userId": "205df8dd-f9a8-44bb-a1dd-c3463a1ac40a",
-    "profileId": "90a18f4f-dc12-4113-937b-e36189028265",
-    "tmdbId": 66732,
-    "mediaType": "tv",
-    "watchedAt": "2025-11-29T05:44:25.051Z"
-  },
-  {
-    "id": "82903843-01b3-4aff-a811-06969f917d77",
-    "userId": "205df8dd-f9a8-44bb-a1dd-c3463a1ac40a",
-    "profileId": "90a18f4f-dc12-4113-937b-e36189028265",
-    "tmdbId": 66732,
-    "mediaType": "tv",
-    "watchedAt": "2025-11-29T05:45:27.911Z"
-  },
-  {
     "id": "df155c97-de94-4609-bb5e-6c331af4eafb",
     "userId": "15348d95-507f-4b97-96e5-55f68f008a93",
     "profileId": "d3266b15-e3a0-4c8e-86c8-06170d75759c",
@@ -208,14 +192,6 @@
     "watchedAt": "2025-11-29T05:57:21.864Z"
   },
   {
-    "id": "ec98590e-96f7-4415-9068-e1e8ec79cd07",
-    "userId": "205df8dd-f9a8-44bb-a1dd-c3463a1ac40a",
-    "profileId": "90a18f4f-dc12-4113-937b-e36189028265",
-    "tmdbId": 66732,
-    "mediaType": "tv",
-    "watchedAt": "2025-11-29T05:58:07.084Z"
-  },
-  {
     "id": "9357fc05-ee70-4d20-bb43-7e7731af3a43",
     "userId": "15348d95-507f-4b97-96e5-55f68f008a93",
     "profileId": "d3266b15-e3a0-4c8e-86c8-06170d75759c",
@@ -230,14 +206,6 @@
     "tmdbId": 66732,
     "mediaType": "tv",
     "watchedAt": "2025-11-29T05:59:20.316Z"
-  },
-  {
-    "id": "456dfbe0-8211-4e7a-8567-e04115f8c5b5",
-    "userId": "205df8dd-f9a8-44bb-a1dd-c3463a1ac40a",
-    "profileId": "90a18f4f-dc12-4113-937b-e36189028265",
-    "tmdbId": 66732,
-    "mediaType": "tv",
-    "watchedAt": "2025-11-29T06:00:41.897Z"
   },
   {
     "id": "4144a5a2-0c5e-42df-85ee-cf93b521461d",
@@ -334,5 +302,13 @@
     "tmdbId": 1233413,
     "mediaType": "movie",
     "watchedAt": "2025-11-29T08:51:20.723Z"
+  },
+  {
+    "id": "b1444b75-4a69-4eb3-9a60-0c890ce2cb79",
+    "userId": "205df8dd-f9a8-44bb-a1dd-c3463a1ac40a",
+    "profileId": "90a18f4f-dc12-4113-937b-e36189028265",
+    "tmdbId": 66732,
+    "mediaType": "tv",
+    "watchedAt": "2025-11-29T08:52:36.239Z"
   }
 ]
