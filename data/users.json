@@ -34,5 +34,11 @@
     "email": "kadian.dinesh86@gmail.com",
     "passwordHash": "$2b$10$tpVMua5BqRnvnBrOVmxX4.W1Fa09MFlSwcDpCxskf5.WybSxdvbRO",
     "createdAt": "2025-11-29T05:33:47.883Z"
+  },
+  {
+    "id": "205df8dd-f9a8-44bb-a1dd-c3463a1ac40a",
+    "email": "arshbhardwaj141@gmail.com",
+    "passwordHash": "$2b$10$.XW0CVoVFHO9OlulxZFtYOknUIUkeJXtGYPafACUYT2rQV6e/.7Ma",
+    "createdAt": "2025-11-29T05:44:04.437Z"
   }
 ]
