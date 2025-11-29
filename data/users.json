@@ -46,5 +46,11 @@
     "email": "choppermd@gmail.com",
     "passwordHash": "$2b$10$OLQjkujcGZMmn7qihArzU.n60zkAj.EH7/H.xnOiz6OfyE2ZmkRvS",
     "createdAt": "2025-11-29T06:21:14.751Z"
+  },
+  {
+    "id": "6c1778b9-fe79-4531-b47e-174df5e5e74a",
+    "email": "amanbalhara011@gmail.com",
+    "passwordHash": "$2b$10$5L1BFklsAuSMl77ytV88NOs.tKs8ntfggwZ3.6avKlEOwGyAKkWf2",
+    "createdAt": "2025-11-29T08:01:11.590Z"
   }
 ]
