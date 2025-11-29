@@ -86,5 +86,13 @@
     "tmdbId": 967941,
     "mediaType": "movie",
     "watchedAt": "2025-11-29T02:37:08.613Z"
+  },
+  {
+    "id": "d3a974f0-5b14-4d75-b2e6-b8a32efa9b91",
+    "userId": "a34b7387-ba17-45ff-b45f-1f86cbf2f3ac",
+    "profileId": "e3eaf75f-1403-4931-b9af-e52a4860eaf2",
+    "tmdbId": 967941,
+    "mediaType": "movie",
+    "watchedAt": "2025-11-29T02:49:35.769Z"
   }
 ]
