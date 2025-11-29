@@ -28,5 +28,11 @@
     "email": "imeemancenido52@gfmail.com",
     "passwordHash": "$2b$10$3UKH4BT3zfMIXCZgGuASZOwRnIJvZOyznq9sFtybKqXk5UJXoDMMS",
     "createdAt": "2025-11-29T02:35:12.363Z"
+  },
+  {
+    "id": "15348d95-507f-4b97-96e5-55f68f008a93",
+    "email": "kadian.dinesh86@gmail.com",
+    "passwordHash": "$2b$10$tpVMua5BqRnvnBrOVmxX4.W1Fa09MFlSwcDpCxskf5.WybSxdvbRO",
+    "createdAt": "2025-11-29T05:33:47.883Z"
   }
 ]
