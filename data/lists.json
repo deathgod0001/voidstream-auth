@@ -22,5 +22,13 @@
     "tmdbId": 1419406,
     "mediaType": "movie",
     "addedAt": "2025-11-28T19:29:29.688Z"
+  },
+  {
+    "id": "26a6a148-d3db-4575-ae97-4d926073a200",
+    "userId": "a34b7387-ba17-45ff-b45f-1f86cbf2f3ac",
+    "profileId": "e3eaf75f-1403-4931-b9af-e52a4860eaf2",
+    "tmdbId": 967941,
+    "mediaType": "movie",
+    "addedAt": "2025-11-29T02:49:33.114Z"
   }
 ]
