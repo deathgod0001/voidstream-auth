@@ -318,5 +318,13 @@
     "tmdbId": 153312,
     "mediaType": "tv",
     "watchedAt": "2025-11-29T10:58:19.869Z"
+  },
+  {
+    "id": "f41be8ec-15ff-477d-87f2-f8d21cd96dd0",
+    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
+    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
+    "tmdbId": 21,
+    "mediaType": "anime",
+    "watchedAt": "2025-11-29T14:08:29.016Z"
   }
 ]
