@@ -130,14 +130,14 @@
     "updatedAt": "2025-11-29T04:47:01.584Z"
   },
   {
-    "id": "a3763b02-1d34-4d6c-823a-cbc74969cbb8",
+    "id": "dc98ef53-ced5-4120-9441-e947cf458f8a",
     "userId": "15348d95-507f-4b97-96e5-55f68f008a93",
     "profileId": "d3266b15-e3a0-4c8e-86c8-06170d75759c",
     "tmdbId": 66732,
     "mediaType": "tv",
     "progress": 0,
     "lastPositionSeconds": 0,
-    "updatedAt": "2025-11-29T05:57:21.101Z"
+    "updatedAt": "2025-11-29T05:58:06.624Z"
   },
   {
     "id": "167ba976-12ea-4618-af22-0239647fff48",
@@ -150,13 +150,13 @@
     "updatedAt": "2025-11-29T05:47:32.633Z"
   },
   {
-    "id": "7b55a8e8-e230-4585-a02a-a6c72456783a",
+    "id": "79929ae0-dfcf-4bad-86be-fb7aca783d70",
     "userId": "205df8dd-f9a8-44bb-a1dd-c3463a1ac40a",
     "profileId": "90a18f4f-dc12-4113-937b-e36189028265",
     "tmdbId": 66732,
     "mediaType": "tv",
     "progress": 0,
     "lastPositionSeconds": 0,
-    "updatedAt": "2025-11-29T05:58:06.181Z"
+    "updatedAt": "2025-11-29T05:45:27.079Z"
   }
 ]
