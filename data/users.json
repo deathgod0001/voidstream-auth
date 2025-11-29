@@ -58,5 +58,11 @@
     "email": "sitjarronileman@gmail.com",
     "passwordHash": "$2b$10$vXtzAwYiM1rgevfBT2CJaeP1miEXPGcssDfba6lC3NT.rvy9CY43K",
     "createdAt": "2025-11-29T10:57:48.604Z"
+  },
+  {
+    "id": "c1fcb972-be38-411d-b91b-cd246108b96e",
+    "email": "guptagauransh987@gmail.com",
+    "passwordHash": "$2b$10$DZSk6zQninMwS5nNcgIq.OApNcd3UxBmVH1zEKKHkIkXvge9mnuX2",
+    "createdAt": "2025-11-29T18:16:40.212Z"
   }
 ]
