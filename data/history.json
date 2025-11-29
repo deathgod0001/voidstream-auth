@@ -310,5 +310,13 @@
     "tmdbId": 1142921,
     "mediaType": "movie",
     "watchedAt": "2025-11-29T08:02:03.820Z"
+  },
+  {
+    "id": "53bb64d2-2517-4327-af98-b2a738ca2080",
+    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
+    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
+    "tmdbId": 1246049,
+    "mediaType": "movie",
+    "watchedAt": "2025-11-29T08:47:15.834Z"
   }
 ]
