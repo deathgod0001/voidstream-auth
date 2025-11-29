@@ -118,5 +118,15 @@
     "progress": 0,
     "lastPositionSeconds": 0,
     "updatedAt": "2025-11-29T04:39:26.978Z"
+  },
+  {
+    "id": "d962085e-cb12-457f-9245-8e1e3ee8bb43",
+    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
+    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
+    "tmdbId": 119495,
+    "mediaType": "tv",
+    "progress": 0,
+    "lastPositionSeconds": 0,
+    "updatedAt": "2025-11-29T04:47:01.584Z"
   }
 ]
