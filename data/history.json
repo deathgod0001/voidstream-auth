@@ -96,52 +96,12 @@
     "watchedAt": "2025-11-29T02:49:35.769Z"
   },
   {
-    "id": "605d1979-f9f7-404c-87eb-f449aa0f2b2a",
-    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
-    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
-    "tmdbId": 463843,
-    "mediaType": "movie",
-    "watchedAt": "2025-11-29T04:30:04.294Z"
-  },
-  {
-    "id": "4372cf6f-86e5-453f-9809-a788a58973b1",
-    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
-    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
-    "tmdbId": 463843,
-    "mediaType": "movie",
-    "watchedAt": "2025-11-29T04:35:39.941Z"
-  },
-  {
-    "id": "b4b68789-aba9-4f61-8383-7648a6fda9f3",
-    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
-    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
-    "tmdbId": 463843,
-    "mediaType": "movie",
-    "watchedAt": "2025-11-29T04:36:38.907Z"
-  },
-  {
-    "id": "328d2f87-22a9-49bd-8132-a54951c1057d",
-    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
-    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
-    "tmdbId": 463843,
-    "mediaType": "movie",
-    "watchedAt": "2025-11-29T04:37:32.221Z"
-  },
-  {
     "id": "48c95989-1aa4-4488-868d-acca9a92da65",
     "userId": "a34b7387-ba17-45ff-b45f-1f86cbf2f3ac",
     "profileId": "e3eaf75f-1403-4931-b9af-e52a4860eaf2",
     "tmdbId": 755898,
     "mediaType": "movie",
     "watchedAt": "2025-11-29T04:39:27.768Z"
-  },
-  {
-    "id": "3659e451-8333-4430-87ee-fd9ca83718fd",
-    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
-    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
-    "tmdbId": 463843,
-    "mediaType": "movie",
-    "watchedAt": "2025-11-29T04:42:37.886Z"
   },
   {
     "id": "008408fd-2228-4d3f-8a4d-ff14fa3c286a",
