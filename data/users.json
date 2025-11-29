@@ -22,5 +22,11 @@
     "email": "joshuamancenido1@gmail.com",
     "passwordHash": "$2b$10$qyklbC3VY4zJ7jMqNcPXyOPMRKJyqmp/t9dSq6pdBRz55vIx9YCMG",
     "createdAt": "2025-11-29T02:33:41.422Z"
+  },
+  {
+    "id": "a34b7387-ba17-45ff-b45f-1f86cbf2f3ac",
+    "email": "imeemancenido52@gfmail.com",
+    "passwordHash": "$2b$10$3UKH4BT3zfMIXCZgGuASZOwRnIJvZOyznq9sFtybKqXk5UJXoDMMS",
+    "createdAt": "2025-11-29T02:35:12.363Z"
   }
 ]
