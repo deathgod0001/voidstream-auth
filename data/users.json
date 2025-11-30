@@ -70,5 +70,11 @@
     "email": "nabeelbut50@gmail.com",
     "passwordHash": "$2b$10$WclOvQut9Cu11VzGQa5hbO0moVk4MVFT0WkGh2MgYubpGjSPdG9SW",
     "createdAt": "2025-11-29T19:48:57.308Z"
+  },
+  {
+    "id": "2d81afb4-08c4-4d04-819a-28178a6e6641",
+    "email": "mylapalliarjun1428@gmail.com",
+    "passwordHash": "$2b$10$H8Rq7LTf9TAuG.UVEcWkIumEZo7Vc/Vvv1PFRWNUlOxLEiQ7fzUYK",
+    "createdAt": "2025-11-30T17:18:57.368Z"
   }
 ]
