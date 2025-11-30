@@ -320,14 +320,6 @@
     "watchedAt": "2025-11-29T14:35:55.865Z"
   },
   {
-    "id": "09056255-3d53-4ce0-91c6-5036297d0c03",
-    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
-    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
-    "tmdbId": 21,
-    "mediaType": "anime",
-    "watchedAt": "2025-11-29T16:56:10.898Z"
-  },
-  {
     "id": "68e842d4-a9db-48a7-90a6-a66c91ecd2a9",
     "userId": "6c1778b9-fe79-4531-b47e-174df5e5e74a",
     "profileId": "0fc6364a-f929-4be3-b0e7-69d6b8b3d2ec",
@@ -438,5 +430,13 @@
     "tmdbId": 66732,
     "mediaType": "tv",
     "watchedAt": "2025-11-30T12:52:15.451Z"
+  },
+  {
+    "id": "cc460c47-3c5b-4d00-8dfa-02c7cdf43bd5",
+    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
+    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
+    "tmdbId": 21,
+    "mediaType": "anime",
+    "watchedAt": "2025-11-30T13:11:14.194Z"
   }
 ]
