@@ -38,5 +38,13 @@
     "tmdbId": 151807,
     "mediaType": "anime",
     "addedAt": "2025-11-29T06:02:04.783Z"
+  },
+  {
+    "id": "ce71db77-3223-4c86-9605-f58c066f1aa6",
+    "userId": "09be1e1e-54ff-4e8d-93e6-3df1368e9fe0",
+    "profileId": "2531df78-d1e5-4bcf-ab0d-d9a661cabb1e",
+    "tmdbId": 283924,
+    "mediaType": "tv",
+    "addedAt": "2025-11-30T06:53:42.174Z"
   }
 ]
