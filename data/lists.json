@@ -54,5 +54,13 @@
     "tmdbId": 113281,
     "mediaType": "tv",
     "addedAt": "2025-11-30T06:53:57.445Z"
+  },
+  {
+    "id": "016059d6-1654-4f09-99c8-e3205192b685",
+    "userId": "09be1e1e-54ff-4e8d-93e6-3df1368e9fe0",
+    "profileId": "2531df78-d1e5-4bcf-ab0d-d9a661cabb1e",
+    "tmdbId": 157255,
+    "mediaType": "tv",
+    "addedAt": "2025-11-30T06:54:24.247Z"
   }
 ]
