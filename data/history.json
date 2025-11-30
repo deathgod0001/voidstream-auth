@@ -360,14 +360,6 @@
     "watchedAt": "2025-11-29T20:05:51.438Z"
   },
   {
-    "id": "01b41c01-8f5d-4001-afcf-7311480f1e28",
-    "userId": "afb38b6a-29ff-4b95-b7c3-8c6f21fca29b",
-    "profileId": "1f73dcdf-c955-4db4-8a76-8cefa956f736",
-    "tmdbId": 66732,
-    "mediaType": "tv",
-    "watchedAt": "2025-11-29T20:12:12.853Z"
-  },
-  {
     "id": "95fdf9d9-a7cc-4a65-9507-29e6340d2e03",
     "userId": "a34b7387-ba17-45ff-b45f-1f86cbf2f3ac",
     "profileId": "e3eaf75f-1403-4931-b9af-e52a4860eaf2",
@@ -438,5 +430,13 @@
     "tmdbId": 565,
     "mediaType": "movie",
     "watchedAt": "2025-11-30T08:47:56.502Z"
+  },
+  {
+    "id": "fbd66432-80a7-48eb-8d57-5f507ecd662f",
+    "userId": "afb38b6a-29ff-4b95-b7c3-8c6f21fca29b",
+    "profileId": "1f73dcdf-c955-4db4-8a76-8cefa956f736",
+    "tmdbId": 66732,
+    "mediaType": "tv",
+    "watchedAt": "2025-11-30T12:52:15.451Z"
   }
 ]
