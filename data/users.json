@@ -88,5 +88,11 @@
     "username": "voidbornfrr",
     "passwordHash": "$2b$10$BDqlzOIv3EY27kde8MuJuut.79d9mtFc9PR6A0TGAlWWAIQEFyXRi",
     "createdAt": "2025-12-01T05:59:30.442Z"
+  },
+  {
+    "id": "d3b7bfc1-72fe-4121-afce-c3ebcac51479",
+    "username": "Voidborn",
+    "passwordHash": "$2b$10$kQgCTRd9OkOZpM1L1JClrOzHHdRzhXTjyhlUcLeek154uDk6Lk3/C",
+    "createdAt": "2025-12-01T12:05:42.249Z"
   }
 ]
