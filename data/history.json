@@ -472,14 +472,6 @@
     "watchedAt": "2025-12-01T03:26:52.198Z"
   },
   {
-    "id": "94b54e6a-7443-412a-a4ea-a58f6db0c529",
-    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
-    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
-    "tmdbId": 91586,
-    "mediaType": "movie",
-    "watchedAt": "2025-12-01T05:17:24.887Z"
-  },
-  {
     "id": "598b3754-e6f5-460d-87d2-9071dc2c7f5f",
     "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
     "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
@@ -502,5 +494,13 @@
     "tmdbId": 755898,
     "mediaType": "movie",
     "watchedAt": "2025-12-01T07:50:16.618Z"
+  },
+  {
+    "id": "f4b5fce3-5fe8-46a5-8ba2-a35f4548ae2c",
+    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
+    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
+    "tmdbId": 91586,
+    "mediaType": "movie",
+    "watchedAt": "2025-12-01T08:25:53.298Z"
   }
 ]
