@@ -76,5 +76,11 @@
     "email": "mylapalliarjun1428@gmail.com",
     "passwordHash": "$2b$10$H8Rq7LTf9TAuG.UVEcWkIumEZo7Vc/Vvv1PFRWNUlOxLEiQ7fzUYK",
     "createdAt": "2025-11-30T17:18:57.368Z"
+  },
+  {
+    "id": "9ccbf8e0-a1ab-442a-9529-002b476d92d3",
+    "email": "voidborn@gmail.com",
+    "passwordHash": "$2b$10$SPW/1nF0gKgh0y5ylkZ9zO492/fK/kr5zZVuPhzoJAArVKakmC666",
+    "createdAt": "2025-12-01T05:53:32.984Z"
   }
 ]
