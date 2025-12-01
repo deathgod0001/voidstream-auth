@@ -70,5 +70,13 @@
     "tmdbId": 229213,
     "mediaType": "tv",
     "addedAt": "2025-11-30T06:54:47.001Z"
+  },
+  {
+    "id": "1013915c-92c6-4445-95f6-679a385a9e4e",
+    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
+    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
+    "tmdbId": 609,
+    "mediaType": "movie",
+    "addedAt": "2025-12-01T03:23:54.062Z"
   }
 ]
