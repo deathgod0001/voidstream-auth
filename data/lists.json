@@ -94,5 +94,13 @@
     "tmdbId": 588,
     "mediaType": "movie",
     "addedAt": "2025-12-01T03:50:08.185Z"
+  },
+  {
+    "id": "0a66a541-cbcb-451c-872a-7074230f9aca",
+    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
+    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
+    "tmdbId": 1219259,
+    "mediaType": "movie",
+    "addedAt": "2025-12-01T07:17:28.114Z"
   }
 ]
