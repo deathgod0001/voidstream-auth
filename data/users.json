@@ -94,5 +94,11 @@
     "username": "Voidborn",
     "passwordHash": "$2b$10$kQgCTRd9OkOZpM1L1JClrOzHHdRzhXTjyhlUcLeek154uDk6Lk3/C",
     "createdAt": "2025-12-01T12:05:42.249Z"
+  },
+  {
+    "id": "86e5109c-9eb3-414b-8ab6-3484d0013d2f",
+    "username": "keenoh08",
+    "passwordHash": "$2b$10$4/BKRuYfxNt0lv.3tdwVI.ozyJMztHi83o1lO/mhXKiO81kK4CUVC",
+    "createdAt": "2025-12-01T13:28:24.736Z"
   }
 ]
