@@ -78,5 +78,13 @@
     "tmdbId": 609,
     "mediaType": "movie",
     "addedAt": "2025-12-01T03:23:54.062Z"
+  },
+  {
+    "id": "1878b16e-b7ec-47a8-ae96-784f7ebe45c3",
+    "userId": "7d5ca4e5-1c9d-4e48-b1ea-085fd56e6312",
+    "profileId": "fa791c30-6ff1-442f-a277-794e34b1aa11",
+    "tmdbId": 694,
+    "mediaType": "movie",
+    "addedAt": "2025-12-01T03:24:14.177Z"
   }
 ]
