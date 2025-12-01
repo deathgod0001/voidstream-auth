@@ -100,5 +100,11 @@
     "username": "keenoh08",
     "passwordHash": "$2b$10$4/BKRuYfxNt0lv.3tdwVI.ozyJMztHi83o1lO/mhXKiO81kK4CUVC",
     "createdAt": "2025-12-01T13:28:24.736Z"
+  },
+  {
+    "id": "24a0b19a-16d0-45f1-8401-92dcede6f26a",
+    "username": "Alfaa",
+    "passwordHash": "$2b$10$Bbs3LEhjGeBgHPN987/V6OBmmKXxtVPaB6/KfsuVY8588hSpzqQ8W",
+    "createdAt": "2025-12-01T19:28:42.894Z"
   }
 ]
