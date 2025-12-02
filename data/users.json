@@ -106,5 +106,11 @@
     "username": "Alfaa",
     "passwordHash": "$2b$10$Bbs3LEhjGeBgHPN987/V6OBmmKXxtVPaB6/KfsuVY8588hSpzqQ8W",
     "createdAt": "2025-12-01T19:28:42.894Z"
+  },
+  {
+    "id": "3d5d387d-71a9-4d9f-b742-9059f841ab83",
+    "username": "mbyswervy",
+    "passwordHash": "$2b$10$z7CBveu8uU/lqGb.n7m0VOasyiMB2XkspJvhZrkOBWQOhzWivfBBi",
+    "createdAt": "2025-12-02T06:16:08.851Z"
   }
 ]
