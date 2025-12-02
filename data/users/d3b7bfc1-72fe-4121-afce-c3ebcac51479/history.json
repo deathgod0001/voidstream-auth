@@ -46,5 +46,13 @@
     "tmdbId": 186794,
     "mediaType": "anime",
     "watchedAt": "2025-12-02T17:51:28.711Z"
+  },
+  {
+    "id": "0e3cd192-4b95-4808-a9fd-6446b89f2c6a",
+    "userId": "d3b7bfc1-72fe-4121-afce-c3ebcac51479",
+    "profileId": "3b01858c-68eb-47e8-9f54-be3a10724968",
+    "tmdbId": 151807,
+    "mediaType": "anime",
+    "watchedAt": "2025-12-02T17:51:53.717Z"
   }
 ]
