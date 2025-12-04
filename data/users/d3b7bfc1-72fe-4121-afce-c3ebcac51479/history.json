@@ -112,19 +112,19 @@
     "watchedAt": "2025-12-04T15:05:54.883Z"
   },
   {
-    "id": "72f522b0-76f6-4ab2-aa9d-e38723d34385",
-    "userId": "d3b7bfc1-72fe-4121-afce-c3ebcac51479",
-    "profileId": "3b01858c-68eb-47e8-9f54-be3a10724968",
-    "tmdbId": 66732,
-    "mediaType": "tv",
-    "watchedAt": "2025-12-04T15:07:52.422Z"
-  },
-  {
     "id": "d0277c65-64a6-4237-a7b1-aae272f4f529",
     "userId": "d3b7bfc1-72fe-4121-afce-c3ebcac51479",
     "profileId": "3b01858c-68eb-47e8-9f54-be3a10724968",
     "tmdbId": 70523,
     "mediaType": "tv",
     "watchedAt": "2025-12-04T16:49:04.442Z"
+  },
+  {
+    "id": "f0aaf82e-6701-4752-986d-282ce1cfc92c",
+    "userId": "d3b7bfc1-72fe-4121-afce-c3ebcac51479",
+    "profileId": "3b01858c-68eb-47e8-9f54-be3a10724968",
+    "tmdbId": 66732,
+    "mediaType": "tv",
+    "watchedAt": "2025-12-04T16:50:50.949Z"
   }
 ]
