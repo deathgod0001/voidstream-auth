@@ -118,5 +118,11 @@
     "username": "moggi",
     "passwordHash": "$2b$10$HpgsH5Ryi7Bu4cM4LLaKDuZCEsyy2OYrr9aWWcK5P.SfbIfICRw7y",
     "createdAt": "2025-12-05T09:05:37.697Z"
+  },
+  {
+    "id": "b79daa0b-d398-43ef-983b-291df2273759",
+    "username": "voidborn",
+    "passwordHash": "$2b$10$T2EJlguuo3ln94fkp89V3eZ1a7GEqA9wnbp/wpzEuR.AIY34zZGQm",
+    "createdAt": "2025-12-05T09:16:04.322Z"
   }
 ]
