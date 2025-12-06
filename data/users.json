@@ -124,5 +124,11 @@
     "username": "voidborn",
     "passwordHash": "$2b$10$T2EJlguuo3ln94fkp89V3eZ1a7GEqA9wnbp/wpzEuR.AIY34zZGQm",
     "createdAt": "2025-12-05T09:16:04.322Z"
+  },
+  {
+    "id": "ccd00ba6-f5c5-46eb-8a50-2e737f316a7e",
+    "username": "mridul",
+    "passwordHash": "$2b$10$Kogwc7uDXxu93tbg9XqwLu4HWODqEg9x0Ygm8SahwN2MyFprShbBy",
+    "createdAt": "2025-12-06T11:01:28.200Z"
   }
 ]
