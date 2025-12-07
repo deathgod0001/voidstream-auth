@@ -154,5 +154,11 @@
     "username": "sg_sire",
     "passwordHash": "$2b$10$PsxMz1koGtMWKbxsssYuo.0ZLGbL2X8VjY4ng5LRrEf3V9x8Kpspa",
     "createdAt": "2025-12-07T13:08:28.199Z"
+  },
+  {
+    "id": "0334c684-f535-4e2e-aa8f-cc89d97481e8",
+    "username": "zetesys",
+    "passwordHash": "$2b$10$NuXFZkhdeD4.nJfd56zwq.5/9aXkQna9j7qUmZX4RJuObhPjxfPo.",
+    "createdAt": "2025-12-07T17:38:38.666Z"
   }
 ]
