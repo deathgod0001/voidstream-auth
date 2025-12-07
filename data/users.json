@@ -148,5 +148,11 @@
     "username": "zero",
     "passwordHash": "$2b$10$GZ.07nh2FDH0UR6Fb7rvI.FE4VLO09cma5Mqj03co0Z6TY43r0aqW",
     "createdAt": "2025-12-07T10:42:41.713Z"
+  },
+  {
+    "id": "a3882f6c-eb62-4017-b8a2-1c61239f19c8",
+    "username": "sg_sire",
+    "passwordHash": "$2b$10$PsxMz1koGtMWKbxsssYuo.0ZLGbL2X8VjY4ng5LRrEf3V9x8Kpspa",
+    "createdAt": "2025-12-07T13:08:28.199Z"
   }
 ]
