@@ -142,5 +142,11 @@
     "username": "zero",
     "passwordHash": "$2b$10$qdtSQpCEdOCn648J.uSAYO0bKLDK//6xX9XZFIiXLmsm35t76cvBq",
     "createdAt": "2025-12-07T10:42:41.260Z"
+  },
+  {
+    "id": "f4f82c82-bb0d-4796-b174-65ad269bab78",
+    "username": "zero",
+    "passwordHash": "$2b$10$GZ.07nh2FDH0UR6Fb7rvI.FE4VLO09cma5Mqj03co0Z6TY43r0aqW",
+    "createdAt": "2025-12-07T10:42:41.713Z"
   }
 ]
