@@ -136,5 +136,11 @@
     "username": "shushiserver01",
     "passwordHash": "$2b$10$7JHb779yIAKxe/Vhp.oX0uJvBsNoi6nBqjgiXF1AFV6tgZSL3WsOu",
     "createdAt": "2025-12-07T07:55:28.025Z"
+  },
+  {
+    "id": "f4419836-5f6a-4103-a5a7-abbd6785ec84",
+    "username": "zero",
+    "passwordHash": "$2b$10$qdtSQpCEdOCn648J.uSAYO0bKLDK//6xX9XZFIiXLmsm35t76cvBq",
+    "createdAt": "2025-12-07T10:42:41.260Z"
   }
 ]
