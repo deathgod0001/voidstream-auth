@@ -166,5 +166,11 @@
     "username": "Jzss",
     "passwordHash": "$2b$10$6BNi48qbnMOMqVKeFMpEuuoue9u.PjbSvk7WGAoSux0TmEtqfcnVi",
     "createdAt": "2025-12-07T19:54:41.183Z"
+  },
+  {
+    "id": "4a14a546-9c95-4877-a401-839b65016920",
+    "username": "Sjoxhs",
+    "passwordHash": "$2b$10$KFEYRQnWt6JjMq4JD8OQmuWWCUzJFpPMtjk/yBSZbMItxnto2NWPK",
+    "createdAt": "2025-12-09T04:09:42.076Z"
   }
 ]
