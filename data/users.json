@@ -172,5 +172,11 @@
     "username": "Sjoxhs",
     "passwordHash": "$2b$10$KFEYRQnWt6JjMq4JD8OQmuWWCUzJFpPMtjk/yBSZbMItxnto2NWPK",
     "createdAt": "2025-12-09T04:09:42.076Z"
+  },
+  {
+    "id": "9a40900c-3b9d-4430-bb9b-2e40fd0375c5",
+    "username": "kaliarcc",
+    "passwordHash": "$2b$10$T1tj5qP4AaCibhVxj1K/Guwx2WwAwf62b2pgbaq4S5/6dm.x/jYM.",
+    "createdAt": "2025-12-17T12:35:45.151Z"
   }
 ]
