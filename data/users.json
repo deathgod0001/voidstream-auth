@@ -178,5 +178,11 @@
     "username": "kaliarcc",
     "passwordHash": "$2b$10$T1tj5qP4AaCibhVxj1K/Guwx2WwAwf62b2pgbaq4S5/6dm.x/jYM.",
     "createdAt": "2025-12-17T12:35:45.151Z"
+  },
+  {
+    "id": "48d3be47-15ab-43a3-a612-f7ab2872e791",
+    "username": "guptagauransh987@gmail.com",
+    "passwordHash": "$2b$10$eYKlhF3jIIdxlLs9OKyckOE7Y4HXSTXD88WXai7fsv1pdtPDG3QuG",
+    "createdAt": "2025-12-19T10:39:31.248Z"
   }
 ]
