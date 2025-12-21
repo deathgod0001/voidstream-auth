@@ -184,5 +184,11 @@
     "username": "guptagauransh987@gmail.com",
     "passwordHash": "$2b$10$eYKlhF3jIIdxlLs9OKyckOE7Y4HXSTXD88WXai7fsv1pdtPDG3QuG",
     "createdAt": "2025-12-19T10:39:31.248Z"
+  },
+  {
+    "id": "eb3e8fca-2248-47cc-a048-3d14d0ef204e",
+    "username": "Vincenzo09",
+    "passwordHash": "$2b$10$54qBoDv2uxX/oIkjx9lAzuooR4b.QY9BaInjyM6ELb/a7bLM7C1YO",
+    "createdAt": "2025-12-21T15:56:03.365Z"
   }
 ]
