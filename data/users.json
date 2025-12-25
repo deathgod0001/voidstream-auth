@@ -190,5 +190,11 @@
     "username": "Vincenzo09",
     "passwordHash": "$2b$10$54qBoDv2uxX/oIkjx9lAzuooR4b.QY9BaInjyM6ELb/a7bLM7C1YO",
     "createdAt": "2025-12-21T15:56:03.365Z"
+  },
+  {
+    "id": "588c8fc4-656c-4a47-9e3e-75d7366b35bd",
+    "username": "Vincenzo96",
+    "passwordHash": "$2b$10$B4s1VnVCwrLJCi7BMVCl3.sK3hGtMAevVqNsbSRC4DZS71W1bNPNq",
+    "createdAt": "2025-12-25T19:53:18.132Z"
   }
 ]
