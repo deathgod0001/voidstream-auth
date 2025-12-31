@@ -214,5 +214,11 @@
     "username": "Kiba ",
     "passwordHash": "$2b$10$qGHtVlgAiThpvyOmeMTE7uU18wPtduyTRz/tJcV4Oo0.Jv2xxGmMG",
     "createdAt": "2025-12-30T10:39:27.376Z"
+  },
+  {
+    "id": "eda06e91-cc40-4095-97f5-3a97897ed37c",
+    "username": "Santa",
+    "passwordHash": "$2b$10$2c8qeNJrsq46GQw8EIsVFei1pITUp.72lh3OarwXJhAFrd80WYqhy",
+    "createdAt": "2025-12-31T04:31:07.794Z"
   }
 ]
