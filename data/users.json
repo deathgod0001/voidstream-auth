@@ -454,5 +454,11 @@
     "username": "Abhiram",
     "passwordHash": "$2b$10$arPZc/fgOoaoyKYcJPl66.zYursgg/KX6BYA0X5QnwyqnvynxE9yO",
     "createdAt": "2026-01-03T17:19:23.329Z"
+  },
+  {
+    "id": "c7e32498-ea6b-4659-a54d-41434c1e5f83",
+    "username": "GJVSNaidd",
+    "passwordHash": "$2b$10$PVbxb0HgniaOi7YUG6hml.4y2Ojb.KR5s5sQhxcs5KgJfrqrGPBX.",
+    "createdAt": "2026-01-03T17:36:51.283Z"
   }
 ]
