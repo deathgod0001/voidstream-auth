@@ -394,5 +394,11 @@
     "username": "Myth",
     "passwordHash": "$2b$10$Q8Q4mC0sJ.RC.IapWkSk..HAeR8B0sAvTaw55M7UyoFv5ayqNQ97a",
     "createdAt": "2026-01-03T14:08:41.635Z"
+  },
+  {
+    "id": "09627531-edd7-44a3-ae4b-56e1e7296506",
+    "username": "shadx",
+    "passwordHash": "$2b$10$L7lFrBE5si59XP9Y7TzAz.pPPLOaWdQOa1k2W6L3hgwqU2VaJsQhO",
+    "createdAt": "2026-01-03T14:11:55.057Z"
   }
 ]
