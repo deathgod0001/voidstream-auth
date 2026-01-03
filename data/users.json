@@ -382,5 +382,11 @@
     "username": "OPxAMMAR ",
     "passwordHash": "$2b$10$ANIpZwnK.gaJR0KZ087fn.f52NkT6fHsWIrEHGCzcWYId7e59Jd6u",
     "createdAt": "2026-01-03T13:56:09.199Z"
+  },
+  {
+    "id": "70fa071d-2e67-4a24-8806-ae324101f78a",
+    "username": "Divy",
+    "passwordHash": "$2b$10$8O0R.7Yll8pPFwkc3oC0wuhE7mtFDvV1EN0jMBwxlILP84PtA3Vze",
+    "createdAt": "2026-01-03T14:08:27.069Z"
   }
 ]
