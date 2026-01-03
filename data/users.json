@@ -340,5 +340,11 @@
     "username": "Ashu_0412",
     "passwordHash": "$2b$10$SHyBhFbhXvWFAPxOGQYUM.eVpRfH6O3zNBNYvYeO4v6BSrqzL0Ygm",
     "createdAt": "2026-01-03T11:50:52.907Z"
+  },
+  {
+    "id": "4dd2c5d4-3a73-457d-b529-27e819dc674e",
+    "username": "Annie",
+    "passwordHash": "$2b$10$oijYSuWkg2CwAfdIFv9CBOBqHaRvhZ5QLOMtLF9PiMFqclFvYTNNu",
+    "createdAt": "2026-01-03T12:14:58.079Z"
   }
 ]
