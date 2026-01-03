@@ -256,5 +256,11 @@
     "username": "demonking",
     "passwordHash": "$2b$10$/G0.Q5penUhV5XhPf1MoEe5YG5cq5cSujA04vj880cTPSJmgbHbdq",
     "createdAt": "2026-01-03T08:30:46.138Z"
+  },
+  {
+    "id": "0494f3f1-c1d8-4f2e-aff3-05d7b0a5a7c4",
+    "username": "Sujan",
+    "passwordHash": "$2b$10$eDPTtYBcl01DcWxxEGsrAeG3p8QQK3vPcDshcP14KlhI05rFi5aua",
+    "createdAt": "2026-01-03T08:34:32.458Z"
   }
 ]
