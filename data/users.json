@@ -316,5 +316,11 @@
     "username": "It's Goatku",
     "passwordHash": "$2b$10$jQRf7XD1YM.a40kr79eLOON5qgu99QzqMXT56qhArh/dCC/B48zm.",
     "createdAt": "2026-01-03T11:17:43.280Z"
+  },
+  {
+    "id": "6951e142-2405-444d-9c1d-7b3f99a0490b",
+    "username": "prajwalprajumspn@21577@gmail.com",
+    "passwordHash": "$2b$10$0d1YS17x4iFyhW9ClOtQh.gKNOK5T8ZYbpOE6RkCbW1j71r.PFjGO",
+    "createdAt": "2026-01-03T11:36:16.704Z"
   }
 ]
