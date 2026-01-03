@@ -5,5 +5,14 @@
     "displayName": "sunny648701@gmail.com",
     "avatarColor": "bg-purple-600",
     "createdAt": "2026-01-03T21:42:31.838Z"
+  },
+  {
+    "id": "3a928dfa-b9c3-4f80-8131-7d0330d4f81c",
+    "userId": "06b9e895-8781-4319-8ebe-dccd91fe3488",
+    "displayName": "Animan",
+    "avatarColor": "bg-green-600",
+    "avatarEmoji": "👤",
+    "avatarImage": null,
+    "createdAt": "2026-01-03T22:02:08.161Z"
   }
 ]
