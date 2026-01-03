@@ -250,5 +250,11 @@
     "username": "Yugal",
     "passwordHash": "$2b$10$mHIymFaC4tWedL1kC59BHO51ZrHWL6329QHTdenmL7HA5MSjn4Y7m",
     "createdAt": "2026-01-03T07:35:07.937Z"
+  },
+  {
+    "id": "0cc8c649-3a57-4c38-9d14-4fcdfb329562",
+    "username": "demonking",
+    "passwordHash": "$2b$10$/G0.Q5penUhV5XhPf1MoEe5YG5cq5cSujA04vj880cTPSJmgbHbdq",
+    "createdAt": "2026-01-03T08:30:46.138Z"
   }
 ]
