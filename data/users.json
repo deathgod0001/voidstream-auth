@@ -322,5 +322,11 @@
     "username": "prajwalprajumspn@21577@gmail.com",
     "passwordHash": "$2b$10$0d1YS17x4iFyhW9ClOtQh.gKNOK5T8ZYbpOE6RkCbW1j71r.PFjGO",
     "createdAt": "2026-01-03T11:36:16.704Z"
+  },
+  {
+    "id": "2feba9c8-3e11-45ea-a713-1a18fd728560",
+    "username": "Amritansh Sahu",
+    "passwordHash": "$2b$10$adIO08vyVDVOYTzmpl1NduK2rqpZxM6/evcpi3oCnbEb0NDZBkKJy",
+    "createdAt": "2026-01-03T11:49:07.218Z"
   }
 ]
