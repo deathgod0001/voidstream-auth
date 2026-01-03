@@ -514,5 +514,11 @@
     "username": "darkdevil222",
     "passwordHash": "$2b$10$rUEX3pTEXEfaLYjWfgeMa.44PywBXbYcHaF33Cqa5hQQMargFgj7S",
     "createdAt": "2026-01-03T20:15:46.453Z"
+  },
+  {
+    "id": "aaf86717-a232-4434-860c-fafabb87cffa",
+    "username": "darkdevil2220",
+    "passwordHash": "$2b$10$0MZMJecG7/Cslo/l8y4ljuPnBYBbVYEVcG3ae8eUXQFdWDIUJFbWC",
+    "createdAt": "2026-01-03T20:15:56.554Z"
   }
 ]
