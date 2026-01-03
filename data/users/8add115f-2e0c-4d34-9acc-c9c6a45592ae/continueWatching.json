@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "586ab0fe-501c-4924-8bf9-68c87ce0f2f9",
+    "userId": "8add115f-2e0c-4d34-9acc-c9c6a45592ae",
+    "profileId": "ef94c4ec-022c-4302-810a-ed4122a6cbe8",
+    "tmdbId": 101921,
+    "mediaType": "anime",
+    "progress": 0.0000926469475176773,
+    "lastPositionSeconds": 0.133423,
+    "updatedAt": "2026-01-03T11:57:23.785Z"
+  }
+]
