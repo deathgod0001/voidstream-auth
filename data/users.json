@@ -238,5 +238,11 @@
     "username": "Chandu",
     "passwordHash": "$2b$10$Z1kUg45XtOJ7tNrkBgNbdO7TkAQXKfc6ONeDmITSedcLVh2K3.bYi",
     "createdAt": "2026-01-03T06:07:34.935Z"
+  },
+  {
+    "id": "019d93f5-3893-453d-bcb8-2fe236340b1b",
+    "username": "Shyam ",
+    "passwordHash": "$2b$10$R6zBqfrHnztX6vCOpynj3.3OSle4RjfxtRI9gWWzFgD9tZVNpK9ZC",
+    "createdAt": "2026-01-03T06:32:48.996Z"
   }
 ]
