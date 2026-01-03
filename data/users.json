@@ -406,5 +406,11 @@
     "username": "Mayankkumre123",
     "passwordHash": "$2b$10$1Glb/f21Or/xHcIsdz8Kp.RQkaUIAfGEsX9WLWr5hSNKFHN4r5moy",
     "createdAt": "2026-01-03T14:15:36.398Z"
+  },
+  {
+    "id": "847abd47-de46-4164-9048-0edf6956d47b",
+    "username": "lonewolf29",
+    "passwordHash": "$2b$10$pYW8rATdoWsiY2eqel0oh.L6GGUoz7SvZyXUQFublLTL1dWebuuS2",
+    "createdAt": "2026-01-03T14:19:30.171Z"
   }
 ]
