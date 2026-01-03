@@ -358,5 +358,11 @@
     "username": "Shisui-77",
     "passwordHash": "$2b$10$Oq02HCH/TU6DCc9RhuepZeWJk/DebQAqr4By0AUyvKoyng5E1wNjO",
     "createdAt": "2026-01-03T13:04:45.191Z"
+  },
+  {
+    "id": "421447a0-e5dd-4173-ab93-b6ef00bdf440",
+    "username": "Koushik2k6",
+    "passwordHash": "$2b$10$C82E4mZ9e4AI6z3EjTUkkuvDrXKpdTTffFYoYe.GEQtef36pUoVxe",
+    "createdAt": "2026-01-03T13:38:06.268Z"
   }
 ]
