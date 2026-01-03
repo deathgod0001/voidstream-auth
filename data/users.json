@@ -232,5 +232,11 @@
     "username": "vinaybalaji2004@gmail.com",
     "passwordHash": "$2b$10$iViJZS7Z85y7OVaFHebQuOrnCRdeWmu88hr/98UGDtFShhrlKP2gq",
     "createdAt": "2026-01-03T05:43:09.130Z"
+  },
+  {
+    "id": "b287a372-104b-4768-a2db-ec6ebbd1e065",
+    "username": "Chandu",
+    "passwordHash": "$2b$10$Z1kUg45XtOJ7tNrkBgNbdO7TkAQXKfc6ONeDmITSedcLVh2K3.bYi",
+    "createdAt": "2026-01-03T06:07:34.935Z"
   }
 ]
