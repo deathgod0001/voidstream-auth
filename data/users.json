@@ -412,5 +412,11 @@
     "username": "lonewolf29",
     "passwordHash": "$2b$10$pYW8rATdoWsiY2eqel0oh.L6GGUoz7SvZyXUQFublLTL1dWebuuS2",
     "createdAt": "2026-01-03T14:19:30.171Z"
+  },
+  {
+    "id": "64b5dc43-86e3-49e7-aae6-e2bbb1df6189",
+    "username": "Agent Blaze",
+    "passwordHash": "$2b$10$hPwF/SDExilNZ6WS2kiF/uB0HE8jb0Mfx6mhua/zUHYlzqwaFXhmy",
+    "createdAt": "2026-01-03T14:25:21.394Z"
   }
 ]
