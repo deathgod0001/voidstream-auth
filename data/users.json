@@ -424,5 +424,11 @@
     "username": "nakulcr06@gmail.com",
     "passwordHash": "$2b$10$3ISzXfQwAPy.9aOljXJxO.Rp1ytdHDGZYz0u2sXpWroYv8ArubLJq",
     "createdAt": "2026-01-03T15:07:37.804Z"
+  },
+  {
+    "id": "9661748d-cf0d-4213-9984-3a16b74584f9",
+    "username": "drake",
+    "passwordHash": "$2b$10$AGhUBw54K7eRdJ6T6LuyeOt4NhLZAoM8ke9BFISl74o3QmoYJLzvS",
+    "createdAt": "2026-01-03T15:35:50.441Z"
   }
 ]
