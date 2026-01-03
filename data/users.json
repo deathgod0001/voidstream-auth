@@ -466,5 +466,11 @@
     "username": "KAIDO",
     "passwordHash": "$2b$10$jxug3lWefro0yM2V1bmm1.7jE4fZp52QBnr9rsCHwmN5EHsjLtMha",
     "createdAt": "2026-01-03T17:43:23.759Z"
+  },
+  {
+    "id": "9618de8f-602d-434e-b619-e4b45ce02806",
+    "username": "Mikey913m",
+    "passwordHash": "$2b$10$/aCd8yfmHNrNupTYQZpHcOteaQQP4U7QVANy6J6MmcDmYG9fZjM0i",
+    "createdAt": "2026-01-03T17:52:01.493Z"
   }
 ]
