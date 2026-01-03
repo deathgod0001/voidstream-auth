@@ -376,5 +376,11 @@
     "username": "Rahul",
     "passwordHash": "$2b$10$Uy9WdEPdcj.3b0WRGSCEgejPD7niF2aP0W2xvbPnFYOO5Wi66ePPu",
     "createdAt": "2026-01-03T13:45:19.195Z"
+  },
+  {
+    "id": "e163914a-2f63-4661-9913-2c5a0bc7c675",
+    "username": "OPxAMMAR ",
+    "passwordHash": "$2b$10$ANIpZwnK.gaJR0KZ087fn.f52NkT6fHsWIrEHGCzcWYId7e59Jd6u",
+    "createdAt": "2026-01-03T13:56:09.199Z"
   }
 ]
