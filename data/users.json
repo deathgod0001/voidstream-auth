@@ -280,5 +280,11 @@
     "username": "Koushik2k6 ",
     "passwordHash": "$2b$10$md/FvaNCvnr.Gr.QlZBngOQOS/JmZyfDDpclmySqWx3K0YfKMqi4a",
     "createdAt": "2026-01-03T09:05:00.906Z"
+  },
+  {
+    "id": "0edffd1e-8c43-4eea-84f3-acd890dfd810",
+    "username": "Chrollo",
+    "passwordHash": "$2b$10$yYOT34oWNZQOVwSa9t7CBu/4.NGcecs1r6gvuKVa7YnNKOfWZn656",
+    "createdAt": "2026-01-03T09:27:31.545Z"
   }
 ]
