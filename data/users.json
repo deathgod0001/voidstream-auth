@@ -328,5 +328,11 @@
     "username": "Amritansh Sahu",
     "passwordHash": "$2b$10$adIO08vyVDVOYTzmpl1NduK2rqpZxM6/evcpi3oCnbEb0NDZBkKJy",
     "createdAt": "2026-01-03T11:49:07.218Z"
+  },
+  {
+    "id": "8add115f-2e0c-4d34-9acc-c9c6a45592ae",
+    "username": "Ramachandren",
+    "passwordHash": "$2b$10$8zMT.fpzT6Vcn/DR/EJKw.Awt/RgzAXd0nVlqNMIzPDkos2kjGMya",
+    "createdAt": "2026-01-03T11:50:13.266Z"
   }
 ]
