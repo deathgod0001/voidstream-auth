@@ -526,5 +526,11 @@
     "username": "sunny648701@gmail.com",
     "passwordHash": "$2b$10$aBtGWdq9bcca740GCmNG/.aTg/yC7GtZWKa/PlLAIbZEmNPCfgu7i",
     "createdAt": "2026-01-03T21:42:31.378Z"
+  },
+  {
+    "id": "78f8b182-1e6f-41e3-a5dc-7fb6662bf79f",
+    "username": "Hisham ",
+    "passwordHash": "$2b$10$j9NrNP.2wyyrRcSX1T6bBuF/dM7tgj2vfSpvb4va2ST3FINBAHPye",
+    "createdAt": "2026-01-03T21:58:10.905Z"
   }
 ]
