@@ -370,5 +370,11 @@
     "username": "Akshat",
     "passwordHash": "$2b$10$5.RmAzJiyLvDiNxcD/pQHO5NhPTGT9VxylCpcLaCC4zmdjztdl2De",
     "createdAt": "2026-01-03T13:42:21.745Z"
+  },
+  {
+    "id": "4f161a1b-238c-44dd-aea9-90ca53dbe3ab",
+    "username": "Rahul",
+    "passwordHash": "$2b$10$Uy9WdEPdcj.3b0WRGSCEgejPD7niF2aP0W2xvbPnFYOO5Wi66ePPu",
+    "createdAt": "2026-01-03T13:45:19.195Z"
   }
 ]
