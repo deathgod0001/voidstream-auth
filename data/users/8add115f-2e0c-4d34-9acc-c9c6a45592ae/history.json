@@ -22,5 +22,13 @@
     "tmdbId": 178788,
     "mediaType": "anime",
     "watchedAt": "2026-01-03T11:52:52.399Z"
+  },
+  {
+    "id": "91fcc410-5daf-4620-b380-53c53b4be51d",
+    "userId": "8add115f-2e0c-4d34-9acc-c9c6a45592ae",
+    "profileId": "ef94c4ec-022c-4302-810a-ed4122a6cbe8",
+    "tmdbId": 116353,
+    "mediaType": "manga",
+    "watchedAt": "2026-01-03T11:54:49.693Z"
   }
 ]
