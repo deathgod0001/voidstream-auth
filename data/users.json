@@ -298,5 +298,11 @@
     "username": "Varun11410",
     "passwordHash": "$2b$10$IUDd5BdAj8F2Iq3fiPdd6ueD9sHqU8Xqg6KQiR/2UEJCWjAVtJyyW",
     "createdAt": "2026-01-03T10:36:53.511Z"
+  },
+  {
+    "id": "90791b60-3feb-441b-9893-c94e02947830",
+    "username": "Aaditya",
+    "passwordHash": "$2b$10$z731Ey.JG.8asLYaJBVLo.21ZZBe4ZrtDlK5RWk9R3tc6c6SfnmMu",
+    "createdAt": "2026-01-03T10:48:41.160Z"
   }
 ]
