@@ -226,5 +226,11 @@
     "username": "Sachin Singh ",
     "passwordHash": "$2b$10$I1FCK7pCuHnyzfXETtAFAuHRfnAlm2CFejuZQyLcsFGQULzS6z3Am",
     "createdAt": "2025-12-31T16:09:55.762Z"
+  },
+  {
+    "id": "4294bab8-38ae-4c5b-b9c3-c5d88df138a1",
+    "username": "vinaybalaji2004@gmail.com",
+    "passwordHash": "$2b$10$iViJZS7Z85y7OVaFHebQuOrnCRdeWmu88hr/98UGDtFShhrlKP2gq",
+    "createdAt": "2026-01-03T05:43:09.130Z"
   }
 ]
