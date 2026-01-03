@@ -400,5 +400,11 @@
     "username": "shadx",
     "passwordHash": "$2b$10$L7lFrBE5si59XP9Y7TzAz.pPPLOaWdQOa1k2W6L3hgwqU2VaJsQhO",
     "createdAt": "2026-01-03T14:11:55.057Z"
+  },
+  {
+    "id": "7149cc94-6850-4a0b-8f33-f39e084521dc",
+    "username": "Mayankkumre123",
+    "passwordHash": "$2b$10$1Glb/f21Or/xHcIsdz8Kp.RQkaUIAfGEsX9WLWr5hSNKFHN4r5moy",
+    "createdAt": "2026-01-03T14:15:36.398Z"
   }
 ]
