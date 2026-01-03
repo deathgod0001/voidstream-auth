@@ -472,5 +472,11 @@
     "username": "Mikey913m",
     "passwordHash": "$2b$10$/aCd8yfmHNrNupTYQZpHcOteaQQP4U7QVANy6J6MmcDmYG9fZjM0i",
     "createdAt": "2026-01-03T17:52:01.493Z"
+  },
+  {
+    "id": "cc725a12-560b-4c52-ac58-affdff436891",
+    "username": "giridharanr24@gmail.com",
+    "passwordHash": "$2b$10$/8qsLBAk1NxOGxyXmHGtw.QGnb0PgMVzmuP5Rr5rY/EBbNimhKgMW",
+    "createdAt": "2026-01-03T19:23:00.970Z"
   }
 ]
