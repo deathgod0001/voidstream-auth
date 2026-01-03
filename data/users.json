@@ -292,5 +292,11 @@
     "username": "Grim Lord",
     "passwordHash": "$2b$10$w/WzmzLI9pEzH/7SEeRLteQVYHoySYFQkHsb9FNCfqpIlT67laQzy",
     "createdAt": "2026-01-03T09:30:27.014Z"
+  },
+  {
+    "id": "98035c46-e610-4b64-b24c-aba63d69ad00",
+    "username": "Varun11410",
+    "passwordHash": "$2b$10$IUDd5BdAj8F2Iq3fiPdd6ueD9sHqU8Xqg6KQiR/2UEJCWjAVtJyyW",
+    "createdAt": "2026-01-03T10:36:53.511Z"
   }
 ]
