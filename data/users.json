@@ -346,5 +346,11 @@
     "username": "Annie",
     "passwordHash": "$2b$10$oijYSuWkg2CwAfdIFv9CBOBqHaRvhZ5QLOMtLF9PiMFqclFvYTNNu",
     "createdAt": "2026-01-03T12:14:58.079Z"
+  },
+  {
+    "id": "abadd82a-1ab5-4fd4-bbd8-dd54f1330da6",
+    "username": "Shubbu_d07",
+    "passwordHash": "$2b$10$wkoE3bW3RqwLDDLoMAoSUuoY.qA2O1CavEH/yZyeuUTt4teTj5ykG",
+    "createdAt": "2026-01-03T12:33:53.372Z"
   }
 ]
