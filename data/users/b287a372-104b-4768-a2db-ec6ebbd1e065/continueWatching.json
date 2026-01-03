@@ -1,12 +1,12 @@
 [
   {
-    "id": "14e9763e-467f-4b3d-bdcd-78f9f34a67f8",
+    "id": "1ee0f5d1-abd7-4106-8bd2-6f92344e0e75",
     "userId": "b287a372-104b-4768-a2db-ec6ebbd1e065",
     "profileId": "9383d723-a6a6-4da4-8a7b-254366d0416c",
     "tmdbId": 21,
     "mediaType": "anime",
-    "progress": 0.08912273035963758,
-    "lastPositionSeconds": 126.377012,
-    "updatedAt": "2026-01-03T08:50:59.337Z"
+    "progress": 0.0894989277234098,
+    "lastPositionSeconds": 126.910464,
+    "updatedAt": "2026-01-03T08:50:59.877Z"
   }
 ]
