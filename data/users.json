@@ -442,5 +442,11 @@
     "username": "Ash",
     "passwordHash": "$2b$10$wuUdylmaPCXMExPtEDGML.5rPBHJ16yD0.F3aZFF1iab5NXrWkrpa",
     "createdAt": "2026-01-03T16:28:05.294Z"
+  },
+  {
+    "id": "99408b69-6c78-487c-835b-ed2cb0ca8fb5",
+    "username": "I'm Ya5",
+    "passwordHash": "$2b$10$aHNauBk4bkXf7TFB76S0i.vIObGn/SN8MTcBdjdLtE9FwuqCiv/WS",
+    "createdAt": "2026-01-03T17:05:58.224Z"
   }
 ]
