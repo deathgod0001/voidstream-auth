@@ -478,5 +478,11 @@
     "username": "giridharanr24@gmail.com",
     "passwordHash": "$2b$10$/8qsLBAk1NxOGxyXmHGtw.QGnb0PgMVzmuP5Rr5rY/EBbNimhKgMW",
     "createdAt": "2026-01-03T19:23:00.970Z"
+  },
+  {
+    "id": "20396879-8f87-4917-9f8a-c70358cc9f7a",
+    "username": "Prayag rahere",
+    "passwordHash": "$2b$10$Wrp/RTBLG1sWqkEeIUjd7Omp6JFuo41kkcNGpsihPPlln1wwRcqr6",
+    "createdAt": "2026-01-03T19:24:42.298Z"
   }
 ]
