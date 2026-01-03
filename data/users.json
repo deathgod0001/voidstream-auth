@@ -496,5 +496,11 @@
     "username": "Yonu_ix",
     "passwordHash": "$2b$10$fH9/CG7gLwo4k/HHFJg17Os89gbBf6aCXZ52TOrrcgyI5H8zsIsOW",
     "createdAt": "2026-01-03T19:34:11.537Z"
+  },
+  {
+    "id": "fb87fe39-07e6-4341-b7f2-05c868227819",
+    "username": "BURGERKING12",
+    "passwordHash": "$2b$10$QrR8pFZK6hv1MDpddVbcUeTTWaY2XmYDs7kEaYi84zBjNrvczrs9K",
+    "createdAt": "2026-01-03T20:09:40.716Z"
   }
 ]
