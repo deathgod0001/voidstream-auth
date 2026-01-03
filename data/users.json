@@ -244,5 +244,11 @@
     "username": "Shyam ",
     "passwordHash": "$2b$10$R6zBqfrHnztX6vCOpynj3.3OSle4RjfxtRI9gWWzFgD9tZVNpK9ZC",
     "createdAt": "2026-01-03T06:32:48.996Z"
+  },
+  {
+    "id": "c8840e88-13c6-48b4-b951-fd611af10794",
+    "username": "Yugal",
+    "passwordHash": "$2b$10$mHIymFaC4tWedL1kC59BHO51ZrHWL6329QHTdenmL7HA5MSjn4Y7m",
+    "createdAt": "2026-01-03T07:35:07.937Z"
   }
 ]
