@@ -304,5 +304,11 @@
     "username": "Aaditya",
     "passwordHash": "$2b$10$z731Ey.JG.8asLYaJBVLo.21ZZBe4ZrtDlK5RWk9R3tc6c6SfnmMu",
     "createdAt": "2026-01-03T10:48:41.160Z"
+  },
+  {
+    "id": "3bb9c666-20af-43d8-b1e1-2ab5a295cfe4",
+    "username": "Bin",
+    "passwordHash": "$2b$10$zhoN5hwa6MhqIGQR7D4iGePs2x1/WCuDZYXpSbzXbSFfA3AeFjNw.",
+    "createdAt": "2026-01-03T11:01:36.713Z"
   }
 ]
