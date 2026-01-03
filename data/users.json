@@ -310,5 +310,11 @@
     "username": "Bin",
     "passwordHash": "$2b$10$zhoN5hwa6MhqIGQR7D4iGePs2x1/WCuDZYXpSbzXbSFfA3AeFjNw.",
     "createdAt": "2026-01-03T11:01:36.713Z"
+  },
+  {
+    "id": "badf0d0d-3373-4fe2-a325-f5ab363f67b7",
+    "username": "It's Goatku",
+    "passwordHash": "$2b$10$jQRf7XD1YM.a40kr79eLOON5qgu99QzqMXT56qhArh/dCC/B48zm.",
+    "createdAt": "2026-01-03T11:17:43.280Z"
   }
 ]
