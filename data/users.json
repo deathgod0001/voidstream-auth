@@ -352,5 +352,11 @@
     "username": "Shubbu_d07",
     "passwordHash": "$2b$10$wkoE3bW3RqwLDDLoMAoSUuoY.qA2O1CavEH/yZyeuUTt4teTj5ykG",
     "createdAt": "2026-01-03T12:33:53.372Z"
+  },
+  {
+    "id": "df3cd260-2ae0-4248-8f71-0ea75dbc23b9",
+    "username": "Shisui-77",
+    "passwordHash": "$2b$10$Oq02HCH/TU6DCc9RhuepZeWJk/DebQAqr4By0AUyvKoyng5E1wNjO",
+    "createdAt": "2026-01-03T13:04:45.191Z"
   }
 ]
