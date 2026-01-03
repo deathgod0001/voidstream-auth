@@ -418,5 +418,11 @@
     "username": "Agent Blaze",
     "passwordHash": "$2b$10$hPwF/SDExilNZ6WS2kiF/uB0HE8jb0Mfx6mhua/zUHYlzqwaFXhmy",
     "createdAt": "2026-01-03T14:25:21.394Z"
+  },
+  {
+    "id": "3716fa58-a008-483b-a418-41b4eac27c37",
+    "username": "nakulcr06@gmail.com",
+    "passwordHash": "$2b$10$3ISzXfQwAPy.9aOljXJxO.Rp1ytdHDGZYz0u2sXpWroYv8ArubLJq",
+    "createdAt": "2026-01-03T15:07:37.804Z"
   }
 ]
