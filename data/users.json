@@ -520,5 +520,11 @@
     "username": "darkdevil2220",
     "passwordHash": "$2b$10$0MZMJecG7/Cslo/l8y4ljuPnBYBbVYEVcG3ae8eUXQFdWDIUJFbWC",
     "createdAt": "2026-01-03T20:15:56.554Z"
+  },
+  {
+    "id": "06b9e895-8781-4319-8ebe-dccd91fe3488",
+    "username": "sunny648701@gmail.com",
+    "passwordHash": "$2b$10$aBtGWdq9bcca740GCmNG/.aTg/yC7GtZWKa/PlLAIbZEmNPCfgu7i",
+    "createdAt": "2026-01-03T21:42:31.378Z"
   }
 ]
