@@ -262,5 +262,11 @@
     "username": "Sujan",
     "passwordHash": "$2b$10$eDPTtYBcl01DcWxxEGsrAeG3p8QQK3vPcDshcP14KlhI05rFi5aua",
     "createdAt": "2026-01-03T08:34:32.458Z"
+  },
+  {
+    "id": "4fb6e5e8-c582-489c-aae0-7ce7f56ca1c7",
+    "username": "Sugin",
+    "passwordHash": "$2b$10$.SkvjostaTjjK7OT4HZXcuhqkGvm5xJshnEIvMe6t97g2XuvpIeom",
+    "createdAt": "2026-01-03T09:04:10.155Z"
   }
 ]
