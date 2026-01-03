@@ -388,5 +388,11 @@
     "username": "Divy",
     "passwordHash": "$2b$10$8O0R.7Yll8pPFwkc3oC0wuhE7mtFDvV1EN0jMBwxlILP84PtA3Vze",
     "createdAt": "2026-01-03T14:08:27.069Z"
+  },
+  {
+    "id": "dd5caf71-c8f0-4ae1-8c1c-94ba10fcbeb8",
+    "username": "Myth",
+    "passwordHash": "$2b$10$Q8Q4mC0sJ.RC.IapWkSk..HAeR8B0sAvTaw55M7UyoFv5ayqNQ97a",
+    "createdAt": "2026-01-03T14:08:41.635Z"
   }
 ]
