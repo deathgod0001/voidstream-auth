@@ -436,5 +436,11 @@
     "username": "Lucy",
     "passwordHash": "$2b$10$wYKjr9clO88hCmGTue2Eb.DWoVeCO6tyiBjoCh4cpaNcE4vnm1AGC",
     "createdAt": "2026-01-03T15:52:33.389Z"
+  },
+  {
+    "id": "0dd53dcd-897e-4469-95a1-22f74b6eb09a",
+    "username": "Ash",
+    "passwordHash": "$2b$10$wuUdylmaPCXMExPtEDGML.5rPBHJ16yD0.F3aZFF1iab5NXrWkrpa",
+    "createdAt": "2026-01-03T16:28:05.294Z"
   }
 ]
