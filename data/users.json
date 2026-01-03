@@ -334,5 +334,11 @@
     "username": "Ramachandren",
     "passwordHash": "$2b$10$8zMT.fpzT6Vcn/DR/EJKw.Awt/RgzAXd0nVlqNMIzPDkos2kjGMya",
     "createdAt": "2026-01-03T11:50:13.266Z"
+  },
+  {
+    "id": "7e676266-dbe7-41ba-a70b-52d8bea4c793",
+    "username": "Ashu_0412",
+    "passwordHash": "$2b$10$SHyBhFbhXvWFAPxOGQYUM.eVpRfH6O3zNBNYvYeO4v6BSrqzL0Ygm",
+    "createdAt": "2026-01-03T11:50:52.907Z"
   }
 ]
