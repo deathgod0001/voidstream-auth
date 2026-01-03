@@ -490,5 +490,11 @@
     "username": "Heyu8999",
     "passwordHash": "$2b$10$Ahe095j8sKtYij03lYwt7OR8AYu0BGnRqhoq/CwHyzgNR0r6CJU4G",
     "createdAt": "2026-01-03T19:33:21.383Z"
+  },
+  {
+    "id": "b5979bd4-22ed-489b-8853-05fdc0cf64d1",
+    "username": "Yonu_ix",
+    "passwordHash": "$2b$10$fH9/CG7gLwo4k/HHFJg17Os89gbBf6aCXZ52TOrrcgyI5H8zsIsOW",
+    "createdAt": "2026-01-03T19:34:11.537Z"
   }
 ]
