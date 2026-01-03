@@ -8,5 +8,16 @@
     "progress": 0.47972249243160425,
     "lastPositionSeconds": 4462.301869,
     "updatedAt": "2026-01-03T11:54:04.165Z"
+  },
+  {
+    "id": "d6aab54c-815f-4794-bd26-94f1e4289578",
+    "userId": "8add115f-2e0c-4d34-9acc-c9c6a45592ae",
+    "profileId": "ef94c4ec-022c-4302-810a-ed4122a6cbe8",
+    "tmdbId": 116353,
+    "mediaType": "manga",
+    "progress": 1,
+    "lastPositionSeconds": 0,
+    "chapterId": "4376-50061000/the-devil-king-is-bored-chapter-61",
+    "updatedAt": "2026-01-03T11:54:49.080Z"
   }
 ]
