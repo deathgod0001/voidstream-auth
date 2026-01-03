@@ -286,5 +286,11 @@
     "username": "Chrollo",
     "passwordHash": "$2b$10$yYOT34oWNZQOVwSa9t7CBu/4.NGcecs1r6gvuKVa7YnNKOfWZn656",
     "createdAt": "2026-01-03T09:27:31.545Z"
+  },
+  {
+    "id": "f5851d24-d901-494a-bdf0-b7a52151a064",
+    "username": "Grim Lord",
+    "passwordHash": "$2b$10$w/WzmzLI9pEzH/7SEeRLteQVYHoySYFQkHsb9FNCfqpIlT67laQzy",
+    "createdAt": "2026-01-03T09:30:27.014Z"
   }
 ]
