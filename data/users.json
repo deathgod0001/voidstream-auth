@@ -634,5 +634,11 @@
     "username": "Kirito",
     "passwordHash": "$2b$10$F4hkk7A8erfYrGmdJya9KehzPdl3ndAMRKHu9RMzixPHibDZzhC2K",
     "createdAt": "2026-01-04T07:51:53.654Z"
+  },
+  {
+    "id": "f9596e49-268f-4577-b40d-774ec9c591cf",
+    "username": "MythKiller",
+    "passwordHash": "$2b$10$QcR1ItrY0jZB4DlGSKzw1OtEDy7lHLJam6W41AZ9EzWznTuGn4GUu",
+    "createdAt": "2026-01-04T07:58:19.622Z"
   }
 ]
