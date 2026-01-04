@@ -556,5 +556,11 @@
     "username": "kaiffy007",
     "passwordHash": "$2b$10$P3wdzhkVzL6UYacXN65dQuqhiJHvjIOzHlHlWVp98OVn1aB9UwGZa",
     "createdAt": "2026-01-04T03:26:47.540Z"
+  },
+  {
+    "id": "63ab0054-c98c-4807-a1d2-6b2b10740696",
+    "username": "Mudasir",
+    "passwordHash": "$2b$10$biB3CuFqK6yS8SvreDsUd.NqYQvYlEBb3c4a3BUv2U0GCl9VDd8rC",
+    "createdAt": "2026-01-04T03:39:15.497Z"
   }
 ]
