@@ -658,5 +658,11 @@
     "username": "Vakmos",
     "passwordHash": "$2b$10$L5y0QYkwR4DSMXgcppabAOfYx7pjZCxVSLbBPSSblrkNk5gTBIkpm",
     "createdAt": "2026-01-04T08:08:30.151Z"
+  },
+  {
+    "id": "1f612212-2a1a-4ea4-b62c-89fb61e8666f",
+    "username": "Xja3nX",
+    "passwordHash": "$2b$10$mO4EnZWtsn6bn6WEZlgJoOy/naa.vAonpT91rGCw.R4jqta69GOAG",
+    "createdAt": "2026-01-04T08:11:34.980Z"
   }
 ]
