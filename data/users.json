@@ -646,5 +646,11 @@
     "username": "Sarthakjain",
     "passwordHash": "$2b$10$Cw7qW4q7XY1J89RZwZiDaOHbVYc9oY41nvCsi3qPO1arn0kiInisK",
     "createdAt": "2026-01-04T07:58:49.104Z"
+  },
+  {
+    "id": "9dfe0515-c16b-46ba-9723-3a8bbcefbadd",
+    "username": "Mr. Sam",
+    "passwordHash": "$2b$10$j8D3gHAcOtBuGIQdbVVCt.7nuhB14X5LJ3dg/s600UTasRDQ8r.3C",
+    "createdAt": "2026-01-04T08:00:58.328Z"
   }
 ]
