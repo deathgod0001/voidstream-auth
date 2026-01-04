@@ -6,5 +6,13 @@
     "tmdbId": 1084242,
     "mediaType": "movie",
     "watchedAt": "2026-01-04T08:09:39.144Z"
+  },
+  {
+    "id": "18e57754-0651-46a5-b9e0-4d014b2a01d2",
+    "userId": "eab85ad4-363d-4ca0-8863-b887570bd49f",
+    "profileId": "9a78e0fa-988a-4fe4-8649-e3a707af907b",
+    "tmdbId": 203800,
+    "mediaType": "manga",
+    "watchedAt": "2026-01-04T11:19:42.962Z"
   }
 ]
