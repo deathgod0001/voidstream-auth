@@ -14,5 +14,13 @@
     "tmdbId": 1131759,
     "mediaType": "movie",
     "addedAt": "2026-01-04T08:11:21.194Z"
+  },
+  {
+    "id": "40b8daeb-af79-4d56-81a5-3ace96176847",
+    "userId": "eab85ad4-363d-4ca0-8863-b887570bd49f",
+    "profileId": "9a78e0fa-988a-4fe4-8649-e3a707af907b",
+    "tmdbId": 198931,
+    "mediaType": "manga",
+    "addedAt": "2026-01-04T08:12:20.734Z"
   }
 ]
