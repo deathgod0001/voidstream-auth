@@ -676,5 +676,11 @@
     "username": "Higudawg",
     "passwordHash": "$2b$10$89n7uaaaJA5BkJ/EW06szuaDXXyieCbw7HduBwGHRKgCYyCbDOyTS",
     "createdAt": "2026-01-04T09:47:35.824Z"
+  },
+  {
+    "id": "2dec2ac2-8c1b-40d5-aaef-48e4425f495d",
+    "username": "JANARDHAN",
+    "passwordHash": "$2b$10$2YAWDEXrqoKAmtNDW6YvEu1oqQAWLnBxK8os.Y20apSjjjObcF2YG",
+    "createdAt": "2026-01-04T10:52:05.251Z"
   }
 ]
