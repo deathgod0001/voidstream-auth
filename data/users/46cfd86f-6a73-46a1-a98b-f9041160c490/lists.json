@@ -110,5 +110,13 @@
     "tmdbId": 152584,
     "mediaType": "movie",
     "addedAt": "2026-01-04T07:19:00.498Z"
+  },
+  {
+    "id": "cab1062f-d460-4f46-b983-eb250ba01b3a",
+    "userId": "46cfd86f-6a73-46a1-a98b-f9041160c490",
+    "profileId": "1223721f-830f-4f66-9b91-fa8bec011de4",
+    "tmdbId": 232402,
+    "mediaType": "tv",
+    "addedAt": "2026-01-04T07:20:07.128Z"
   }
 ]
