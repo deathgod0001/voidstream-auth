@@ -664,5 +664,11 @@
     "username": "Xja3nX",
     "passwordHash": "$2b$10$mO4EnZWtsn6bn6WEZlgJoOy/naa.vAonpT91rGCw.R4jqta69GOAG",
     "createdAt": "2026-01-04T08:11:34.980Z"
+  },
+  {
+    "id": "2d2a7578-5086-4893-a48d-dd1a4c56d3cd",
+    "username": "Alwaysbadass",
+    "passwordHash": "$2b$10$q6KRWsLA1cXUTBBhgoEb3.DsNs.30BbBWq7J3tbIh7qOwtBuh21N2",
+    "createdAt": "2026-01-04T08:40:34.965Z"
   }
 ]
