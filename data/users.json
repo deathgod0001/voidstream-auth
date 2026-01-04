@@ -592,5 +592,11 @@
     "username": "Anime hunt ",
     "passwordHash": "$2b$10$wZxWZ9KpX/so3Oo/SMrLv.eW60O8eDeANCuQohU6Yo/7UqL3LKOwy",
     "createdAt": "2026-01-04T05:29:10.499Z"
+  },
+  {
+    "id": "ebbe8ec6-0cb5-4240-9a79-965a6fdd4013",
+    "username": "ASHLESH04",
+    "passwordHash": "$2b$10$K7Zg5kwVhWe0r8obj9nRGeZZzy9iZPcefLx9QRUbW7mZ1FB8hbcE6",
+    "createdAt": "2026-01-04T05:40:14.890Z"
   }
 ]
