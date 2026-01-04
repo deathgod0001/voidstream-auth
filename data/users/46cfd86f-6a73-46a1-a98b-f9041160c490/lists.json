@@ -78,5 +78,13 @@
     "tmdbId": 235685,
     "mediaType": "tv",
     "addedAt": "2026-01-04T07:14:13.848Z"
+  },
+  {
+    "id": "f741f6a5-06e8-414f-ac3e-ec61c427444b",
+    "userId": "46cfd86f-6a73-46a1-a98b-f9041160c490",
+    "profileId": "1223721f-830f-4f66-9b91-fa8bec011de4",
+    "tmdbId": 1217690,
+    "mediaType": "movie",
+    "addedAt": "2026-01-04T07:15:27.101Z"
   }
 ]
