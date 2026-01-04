@@ -54,5 +54,13 @@
     "tmdbId": 106130,
     "mediaType": "manga",
     "addedAt": "2026-01-04T08:13:38.438Z"
+  },
+  {
+    "id": "a03fc0c2-dd89-48f5-8f70-1eef6da29fae",
+    "userId": "eab85ad4-363d-4ca0-8863-b887570bd49f",
+    "profileId": "9a78e0fa-988a-4fe4-8649-e3a707af907b",
+    "tmdbId": 61859,
+    "mediaType": "tv",
+    "addedAt": "2026-01-04T11:31:12.982Z"
   }
 ]
