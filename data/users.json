@@ -538,5 +538,11 @@
     "username": "Tejas",
     "passwordHash": "$2b$10$JiMz9p38lU/PJjhgVZelCelu3D.fvEDUONlVorLxwBxJ7NuE./UaW",
     "createdAt": "2026-01-03T22:35:12.009Z"
+  },
+  {
+    "id": "8ea09fa0-976b-4994-88ed-c3d27fd96173",
+    "username": "Abish",
+    "passwordHash": "$2b$10$WI3x0hbLIhyWlTda2tt5J.NAq6dM4XJRDjZAcqN6wrCAzLVeXXi5K",
+    "createdAt": "2026-01-04T00:38:21.368Z"
   }
 ]
