@@ -694,5 +694,11 @@
     "username": "RICKY JASROTIA ",
     "passwordHash": "$2b$10$CUn.YqK7YdfSi926NQm22ujv08nMlxxMH/qf8Y1ZljzEKJXELQUQ2",
     "createdAt": "2026-01-04T14:04:27.337Z"
+  },
+  {
+    "id": "aea05ceb-b117-4738-9ef9-2ba77edf6f75",
+    "username": "Sidharth",
+    "passwordHash": "$2b$10$VJNcgAf7OoAsL1QaURHB8OpMJP..MWjSPQCIKxGu5txENDv2NYmb6",
+    "createdAt": "2026-01-04T16:43:31.196Z"
   }
 ]
