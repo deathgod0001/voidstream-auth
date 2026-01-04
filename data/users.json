@@ -586,5 +586,11 @@
     "username": "Aaryan",
     "passwordHash": "$2b$10$01Pnsk/uxDGCJXSkavUUq.NMoU3B.vI1mTKH2yW2PAzkJ7ZvC5Gam",
     "createdAt": "2026-01-04T05:23:39.904Z"
+  },
+  {
+    "id": "e3a3a596-1bf6-449c-a38d-56aab0edceab",
+    "username": "Anime hunt ",
+    "passwordHash": "$2b$10$wZxWZ9KpX/so3Oo/SMrLv.eW60O8eDeANCuQohU6Yo/7UqL3LKOwy",
+    "createdAt": "2026-01-04T05:29:10.499Z"
   }
 ]
