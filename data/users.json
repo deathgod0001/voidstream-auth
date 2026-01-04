@@ -610,5 +610,11 @@
     "username": "Sushanthselestin@gmail.com",
     "passwordHash": "$2b$10$Xh1/lPZKjO0Zt3sSZ137WeleuVWsCsAOMm0Gai0idcoKrXmTU9uBy",
     "createdAt": "2026-01-04T06:35:26.674Z"
+  },
+  {
+    "id": "46cfd86f-6a73-46a1-a98b-f9041160c490",
+    "username": "Xator99",
+    "passwordHash": "$2b$10$uy5eaYjQYm.RGKyUy0ksd.NhjzZ1NsLwyKpLZpG.nauVb5FH4eJz.",
+    "createdAt": "2026-01-04T06:51:59.743Z"
   }
 ]
