@@ -604,5 +604,11 @@
     "username": "Sushanthwinchester@gmail.com",
     "passwordHash": "$2b$10$AMvA3M16j4lDH..Or9jdX.lP10yFElt3evVVL2DxgIKEZn1Mg2M9G",
     "createdAt": "2026-01-04T06:25:45.162Z"
+  },
+  {
+    "id": "408b7108-25e6-4305-a71b-b1b632c1b818",
+    "username": "Sushanthselestin@gmail.com",
+    "passwordHash": "$2b$10$Xh1/lPZKjO0Zt3sSZ137WeleuVWsCsAOMm0Gai0idcoKrXmTU9uBy",
+    "createdAt": "2026-01-04T06:35:26.674Z"
   }
 ]
