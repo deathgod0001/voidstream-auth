@@ -688,5 +688,11 @@
     "username": "Ayon",
     "passwordHash": "$2b$10$3tJJKk0199gQzylG4ENXA.kgjeN9JK/EM/f8Y.CylZiPbpPYpL9GW",
     "createdAt": "2026-01-04T13:24:04.036Z"
+  },
+  {
+    "id": "59ee91a8-78db-443b-ae64-381b1d65899b",
+    "username": "RICKY JASROTIA ",
+    "passwordHash": "$2b$10$CUn.YqK7YdfSi926NQm22ujv08nMlxxMH/qf8Y1ZljzEKJXELQUQ2",
+    "createdAt": "2026-01-04T14:04:27.337Z"
   }
 ]
