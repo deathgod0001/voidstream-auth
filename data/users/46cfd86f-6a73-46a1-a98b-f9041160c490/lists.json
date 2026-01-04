@@ -46,5 +46,13 @@
     "tmdbId": 167142,
     "mediaType": "anime",
     "addedAt": "2026-01-04T07:05:03.320Z"
+  },
+  {
+    "id": "b53a6ec8-5209-4b80-9821-b9074cc9b9b4",
+    "userId": "46cfd86f-6a73-46a1-a98b-f9041160c490",
+    "profileId": "1223721f-830f-4f66-9b91-fa8bec011de4",
+    "tmdbId": 146339,
+    "mediaType": "tv",
+    "addedAt": "2026-01-04T07:06:44.925Z"
   }
 ]
