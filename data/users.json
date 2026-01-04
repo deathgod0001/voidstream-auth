@@ -682,5 +682,11 @@
     "username": "JANARDHAN",
     "passwordHash": "$2b$10$2YAWDEXrqoKAmtNDW6YvEu1oqQAWLnBxK8os.Y20apSjjjObcF2YG",
     "createdAt": "2026-01-04T10:52:05.251Z"
+  },
+  {
+    "id": "640fa202-d335-4c40-8470-68d18ce40715",
+    "username": "Ayon",
+    "passwordHash": "$2b$10$3tJJKk0199gQzylG4ENXA.kgjeN9JK/EM/f8Y.CylZiPbpPYpL9GW",
+    "createdAt": "2026-01-04T13:24:04.036Z"
   }
 ]
