@@ -652,5 +652,11 @@
     "username": "Mr. Sam",
     "passwordHash": "$2b$10$j8D3gHAcOtBuGIQdbVVCt.7nuhB14X5LJ3dg/s600UTasRDQ8r.3C",
     "createdAt": "2026-01-04T08:00:58.328Z"
+  },
+  {
+    "id": "eab85ad4-363d-4ca0-8863-b887570bd49f",
+    "username": "Vakmos",
+    "passwordHash": "$2b$10$L5y0QYkwR4DSMXgcppabAOfYx7pjZCxVSLbBPSSblrkNk5gTBIkpm",
+    "createdAt": "2026-01-04T08:08:30.151Z"
   }
 ]
