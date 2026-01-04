@@ -29,5 +29,16 @@
     "progress": 0.1617693321740106,
     "lastPositionSeconds": 230.70248,
     "updatedAt": "2026-01-04T00:41:02.920Z"
+  },
+  {
+    "id": "91ad5720-ad70-4184-9242-eccd145bd63d",
+    "userId": "06b9e895-8781-4319-8ebe-dccd91fe3488",
+    "profileId": "d0ce9644-516a-4003-badf-02ad7e28e7e7",
+    "tmdbId": 106064,
+    "mediaType": "manga",
+    "progress": 1,
+    "lastPositionSeconds": 0,
+    "chapterId": "2819-10051000/mato-seihei-no-slave-chapter-51",
+    "updatedAt": "2026-01-04T05:14:47.715Z"
   }
 ]
