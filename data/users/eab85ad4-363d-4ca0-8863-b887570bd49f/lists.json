@@ -30,5 +30,13 @@
     "tmdbId": 180891,
     "mediaType": "manga",
     "addedAt": "2026-01-04T08:12:35.781Z"
+  },
+  {
+    "id": "737a5392-0423-4c64-ae47-e5ce0a4eec09",
+    "userId": "eab85ad4-363d-4ca0-8863-b887570bd49f",
+    "profileId": "9a78e0fa-988a-4fe4-8649-e3a707af907b",
+    "tmdbId": 172623,
+    "mediaType": "manga",
+    "addedAt": "2026-01-04T08:12:53.306Z"
   }
 ]
