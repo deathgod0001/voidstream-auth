@@ -670,5 +670,11 @@
     "username": "Alwaysbadass",
     "passwordHash": "$2b$10$q6KRWsLA1cXUTBBhgoEb3.DsNs.30BbBWq7J3tbIh7qOwtBuh21N2",
     "createdAt": "2026-01-04T08:40:34.965Z"
+  },
+  {
+    "id": "027854e1-faeb-471e-aadf-af98f6951624",
+    "username": "Higudawg",
+    "passwordHash": "$2b$10$89n7uaaaJA5BkJ/EW06szuaDXXyieCbw7HduBwGHRKgCYyCbDOyTS",
+    "createdAt": "2026-01-04T09:47:35.824Z"
   }
 ]
