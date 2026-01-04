@@ -598,5 +598,11 @@
     "username": "ASHLESH04",
     "passwordHash": "$2b$10$K7Zg5kwVhWe0r8obj9nRGeZZzy9iZPcefLx9QRUbW7mZ1FB8hbcE6",
     "createdAt": "2026-01-04T05:40:14.890Z"
+  },
+  {
+    "id": "248b0c87-d910-4578-8de6-c4d1705df322",
+    "username": "Sushanthwinchester@gmail.com",
+    "passwordHash": "$2b$10$AMvA3M16j4lDH..Or9jdX.lP10yFElt3evVVL2DxgIKEZn1Mg2M9G",
+    "createdAt": "2026-01-04T06:25:45.162Z"
   }
 ]
