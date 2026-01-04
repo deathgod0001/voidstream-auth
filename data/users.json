@@ -622,5 +622,11 @@
     "username": "Abdullah1137758",
     "passwordHash": "$2b$10$66WqNWIuIymqJhQPyoT4/OMx7C7pgF0kR2MK8u.z7ZRZjYi0HuQZC",
     "createdAt": "2026-01-04T06:55:46.182Z"
+  },
+  {
+    "id": "1a008c5e-3af9-4804-ac82-f92b913971bc",
+    "username": "MightyxCronos ",
+    "passwordHash": "$2b$10$r0ZqIGY3CLhFs/zofyY/yuyTwmhX..T16NrTcrExmy45ZRu0H1UAO",
+    "createdAt": "2026-01-04T06:59:55.964Z"
   }
 ]
