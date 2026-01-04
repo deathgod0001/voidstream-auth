@@ -562,5 +562,11 @@
     "username": "Mudasir",
     "passwordHash": "$2b$10$biB3CuFqK6yS8SvreDsUd.NqYQvYlEBb3c4a3BUv2U0GCl9VDd8rC",
     "createdAt": "2026-01-04T03:39:15.497Z"
+  },
+  {
+    "id": "825731be-9193-4f2a-b2b5-5d3929250d04",
+    "username": "GetRekt ",
+    "passwordHash": "$2b$10$x1MyknqoivSArCqwB8acT.fm4etO.Tzv0mIeIn8xTr09FAT55RT1O",
+    "createdAt": "2026-01-04T03:45:07.488Z"
   }
 ]
