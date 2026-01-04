@@ -86,5 +86,13 @@
     "tmdbId": 1217690,
     "mediaType": "movie",
     "addedAt": "2026-01-04T07:15:27.101Z"
+  },
+  {
+    "id": "052838d2-f03e-4547-a214-cdbeb3bb681d",
+    "userId": "46cfd86f-6a73-46a1-a98b-f9041160c490",
+    "profileId": "1223721f-830f-4f66-9b91-fa8bec011de4",
+    "tmdbId": 96724,
+    "mediaType": "movie",
+    "addedAt": "2026-01-04T07:17:23.899Z"
   }
 ]
