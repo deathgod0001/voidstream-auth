@@ -706,5 +706,11 @@
     "username": "Demonic=Ruler",
     "passwordHash": "$2b$10$7wMt1TJWOjeArpzncnjWMupJQ0/OCEns/zFIzI3MjhYNEpaXaO/ku",
     "createdAt": "2026-01-04T19:53:40.355Z"
+  },
+  {
+    "id": "0c1ce838-165d-4cef-8f5e-dc326b5d3ef8",
+    "username": "dexav",
+    "passwordHash": "$2b$10$wRJ/hzXeKuhbXU2Av.vI1eapmvnQnohI9vksSod9LRyqy.D/ss/8i",
+    "createdAt": "2026-01-04T21:06:20.568Z"
   }
 ]
