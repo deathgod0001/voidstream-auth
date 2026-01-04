@@ -550,5 +550,11 @@
     "username": "Rox",
     "passwordHash": "$2b$10$CjSO3zn13LKwFeRmGhPWBu9Hi4lDuRvSW2oRDZrgls83PVqhcglla",
     "createdAt": "2026-01-04T01:33:07.141Z"
+  },
+  {
+    "id": "f476cb61-7a4c-4eed-b90d-64c38c0489a9",
+    "username": "kaiffy007",
+    "passwordHash": "$2b$10$P3wdzhkVzL6UYacXN65dQuqhiJHvjIOzHlHlWVp98OVn1aB9UwGZa",
+    "createdAt": "2026-01-04T03:26:47.540Z"
   }
 ]
