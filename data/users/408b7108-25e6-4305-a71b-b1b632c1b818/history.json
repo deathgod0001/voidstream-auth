@@ -6,5 +6,13 @@
     "tmdbId": 66732,
     "mediaType": "tv",
     "watchedAt": "2026-01-04T06:36:08.818Z"
+  },
+  {
+    "id": "aa2c4e66-bc27-43fd-93ec-fd4565ca0b82",
+    "userId": "408b7108-25e6-4305-a71b-b1b632c1b818",
+    "profileId": "235e3d00-6ef4-42ba-adfe-d49a0daf0f00",
+    "tmdbId": 1084242,
+    "mediaType": "movie",
+    "watchedAt": "2026-01-04T06:43:59.475Z"
   }
 ]
