@@ -574,5 +574,11 @@
     "username": "avie",
     "passwordHash": "$2b$10$XMMZk5A.13KZhD5zYg1RwOozOo.cMaR0T6EwOhLBLK.qCm2BUVItK",
     "createdAt": "2026-01-04T03:49:35.676Z"
+  },
+  {
+    "id": "f3d09ea7-f018-48b3-b9d6-177f88495c03",
+    "username": "Chintu1999",
+    "passwordHash": "$2b$10$0gSWC2LPLN/v8DCDsJ1u0eSaLbZDUr/m3p9/KPtWQ5/WwpEGgeGUu",
+    "createdAt": "2026-01-04T05:12:43.238Z"
   }
 ]
