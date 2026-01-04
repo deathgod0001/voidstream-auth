@@ -544,5 +544,11 @@
     "username": "Abish",
     "passwordHash": "$2b$10$WI3x0hbLIhyWlTda2tt5J.NAq6dM4XJRDjZAcqN6wrCAzLVeXXi5K",
     "createdAt": "2026-01-04T00:38:21.368Z"
+  },
+  {
+    "id": "d0208327-63b8-4354-b82d-2d5950673056",
+    "username": "Rox",
+    "passwordHash": "$2b$10$CjSO3zn13LKwFeRmGhPWBu9Hi4lDuRvSW2oRDZrgls83PVqhcglla",
+    "createdAt": "2026-01-04T01:33:07.141Z"
   }
 ]
