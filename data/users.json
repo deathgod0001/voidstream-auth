@@ -640,5 +640,11 @@
     "username": "MythKiller",
     "passwordHash": "$2b$10$QcR1ItrY0jZB4DlGSKzw1OtEDy7lHLJam6W41AZ9EzWznTuGn4GUu",
     "createdAt": "2026-01-04T07:58:19.622Z"
+  },
+  {
+    "id": "4bcaf2ea-7461-403e-ab41-1cb12273dfcd",
+    "username": "Sarthakjain",
+    "passwordHash": "$2b$10$Cw7qW4q7XY1J89RZwZiDaOHbVYc9oY41nvCsi3qPO1arn0kiInisK",
+    "createdAt": "2026-01-04T07:58:49.104Z"
   }
 ]
