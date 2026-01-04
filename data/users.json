@@ -700,5 +700,11 @@
     "username": "Sidharth",
     "passwordHash": "$2b$10$VJNcgAf7OoAsL1QaURHB8OpMJP..MWjSPQCIKxGu5txENDv2NYmb6",
     "createdAt": "2026-01-04T16:43:31.196Z"
+  },
+  {
+    "id": "9a55eb9f-eb1c-4b3a-861d-50f26e8676e9",
+    "username": "Demonic=Ruler",
+    "passwordHash": "$2b$10$7wMt1TJWOjeArpzncnjWMupJQ0/OCEns/zFIzI3MjhYNEpaXaO/ku",
+    "createdAt": "2026-01-04T19:53:40.355Z"
   }
 ]
