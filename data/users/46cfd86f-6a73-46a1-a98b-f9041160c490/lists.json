@@ -6,5 +6,13 @@
     "tmdbId": 138971,
     "mediaType": "tv",
     "addedAt": "2026-01-04T06:57:51.577Z"
+  },
+  {
+    "id": "cddabd3c-fdee-4dbb-8ee2-9885fde96066",
+    "userId": "46cfd86f-6a73-46a1-a98b-f9041160c490",
+    "profileId": "1223721f-830f-4f66-9b91-fa8bec011de4",
+    "tmdbId": 7225,
+    "mediaType": "tv",
+    "addedAt": "2026-01-04T06:58:39.085Z"
   }
 ]
