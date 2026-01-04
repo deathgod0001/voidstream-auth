@@ -14,5 +14,13 @@
     "tmdbId": 813,
     "mediaType": "anime",
     "watchedAt": "2026-01-04T04:16:05.386Z"
+  },
+  {
+    "id": "8fe62a3e-4402-4d38-926c-971de8a11235",
+    "userId": "825731be-9193-4f2a-b2b5-5d3929250d04",
+    "profileId": "23eaa6d5-3fea-4374-ae6a-b5751c7871ad",
+    "tmdbId": 48891,
+    "mediaType": "tv",
+    "watchedAt": "2026-01-04T04:19:48.775Z"
   }
 ]
