@@ -14,5 +14,13 @@
     "tmdbId": 200875,
     "mediaType": "tv",
     "watchedAt": "2026-01-04T14:12:58.418Z"
+  },
+  {
+    "id": "58c1eebc-9033-4289-92e6-d6cc1cfa32f4",
+    "userId": "59ee91a8-78db-443b-ae64-381b1d65899b",
+    "profileId": "3be87e86-d3bd-4c79-8df4-777f1682c778",
+    "tmdbId": 1622,
+    "mediaType": "tv",
+    "watchedAt": "2026-01-04T14:20:36.938Z"
   }
 ]
