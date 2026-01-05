@@ -712,5 +712,11 @@
     "username": "dexav",
     "passwordHash": "$2b$10$wRJ/hzXeKuhbXU2Av.vI1eapmvnQnohI9vksSod9LRyqy.D/ss/8i",
     "createdAt": "2026-01-04T21:06:20.568Z"
+  },
+  {
+    "id": "b893832b-b829-4c5e-b1b1-0f9d5f35a559",
+    "username": "Kiyotaka Ayanokoji",
+    "passwordHash": "$2b$10$Cjx3.FZHpsPvYBl.dNGsJ.l4.wO670t4UZeTLr3FZFpq3vA7t845m",
+    "createdAt": "2026-01-05T01:39:52.234Z"
   }
 ]
