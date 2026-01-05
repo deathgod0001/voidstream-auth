@@ -730,5 +730,11 @@
     "username": "Adithyasai ",
     "passwordHash": "$2b$10$vpu6Yr9UUg1sFR8N3Msh1eV7ONlP3D3PLIlQfMUvfa1cBw7pffnda",
     "createdAt": "2026-01-05T06:58:59.887Z"
+  },
+  {
+    "id": "cf569db9-8af7-4da8-92a7-b93a07928f80",
+    "username": "Ahmadullah09",
+    "passwordHash": "$2b$10$siTp.zko2Cg8iSBPkHwj4uUA2vTR.fA3jd1qmcYvaMOe7XnP6508C",
+    "createdAt": "2026-01-05T14:30:46.491Z"
   }
 ]
