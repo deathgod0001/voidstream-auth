@@ -32,19 +32,19 @@
     "watchedAt": "2026-01-04T05:05:51.915Z"
   },
   {
-    "id": "7326cb9b-62b1-4a84-b095-3e403c2b106b",
-    "userId": "06b9e895-8781-4319-8ebe-dccd91fe3488",
-    "profileId": "d0ce9644-516a-4003-badf-02ad7e28e7e7",
-    "tmdbId": 106064,
-    "mediaType": "manga",
-    "watchedAt": "2026-01-04T05:56:54.696Z"
-  },
-  {
     "id": "ed1971ba-beb4-4692-b0db-6d35df015872",
     "userId": "06b9e895-8781-4319-8ebe-dccd91fe3488",
     "profileId": "d0ce9644-516a-4003-badf-02ad7e28e7e7",
     "tmdbId": 21,
     "mediaType": "anime",
     "watchedAt": "2026-01-05T16:57:17.821Z"
+  },
+  {
+    "id": "972996dc-365e-42a7-99a3-8ab9134e509a",
+    "userId": "06b9e895-8781-4319-8ebe-dccd91fe3488",
+    "profileId": "d0ce9644-516a-4003-badf-02ad7e28e7e7",
+    "tmdbId": 106064,
+    "mediaType": "manga",
+    "watchedAt": "2026-01-05T19:57:12.331Z"
   }
 ]
