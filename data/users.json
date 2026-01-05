@@ -724,5 +724,11 @@
     "username": "Electro Sagnik",
     "passwordHash": "$2b$10$MPX01QK1rHntX3Sjf/ol5ur78WczYSiVeLS0cMsySxDNsYd9vuMJ.",
     "createdAt": "2026-01-05T02:41:37.519Z"
+  },
+  {
+    "id": "48332eac-83dd-44de-90fb-6abcff656bca",
+    "username": "Adithyasai ",
+    "passwordHash": "$2b$10$vpu6Yr9UUg1sFR8N3Msh1eV7ONlP3D3PLIlQfMUvfa1cBw7pffnda",
+    "createdAt": "2026-01-05T06:58:59.887Z"
   }
 ]
