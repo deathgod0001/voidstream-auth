@@ -718,5 +718,11 @@
     "username": "Kiyotaka Ayanokoji",
     "passwordHash": "$2b$10$Cjx3.FZHpsPvYBl.dNGsJ.l4.wO670t4UZeTLr3FZFpq3vA7t845m",
     "createdAt": "2026-01-05T01:39:52.234Z"
+  },
+  {
+    "id": "7c8606f0-336e-4b7a-a5d3-038a36fdbd51",
+    "username": "Electro Sagnik",
+    "passwordHash": "$2b$10$MPX01QK1rHntX3Sjf/ol5ur78WczYSiVeLS0cMsySxDNsYd9vuMJ.",
+    "createdAt": "2026-01-05T02:41:37.519Z"
   }
 ]
