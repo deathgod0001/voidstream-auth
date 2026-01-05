@@ -736,5 +736,11 @@
     "username": "Ahmadullah09",
     "passwordHash": "$2b$10$siTp.zko2Cg8iSBPkHwj4uUA2vTR.fA3jd1qmcYvaMOe7XnP6508C",
     "createdAt": "2026-01-05T14:30:46.491Z"
+  },
+  {
+    "id": "ba8cbffe-f16b-49da-89b6-e60371094151",
+    "username": "Gojo117",
+    "passwordHash": "$2b$10$nn96NuKJiO1uHzW5aDEsnuURdodV1nvjhFXrqgRg8PaC1MNXM7TwW",
+    "createdAt": "2026-01-05T16:20:21.004Z"
   }
 ]
