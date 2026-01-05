@@ -14,5 +14,13 @@
     "tmdbId": 730154,
     "mediaType": "movie",
     "addedAt": "2026-01-04T21:12:11.658Z"
+  },
+  {
+    "id": "a15967d1-4c70-443b-a1fc-e23ddd5af80d",
+    "userId": "0c1ce838-165d-4cef-8f5e-dc326b5d3ef8",
+    "profileId": "5ee39c1e-dc35-4238-b9ce-f620a596b073",
+    "tmdbId": 1061474,
+    "mediaType": "movie",
+    "addedAt": "2026-01-05T20:58:24.968Z"
   }
 ]
