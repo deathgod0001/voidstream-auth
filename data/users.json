@@ -766,5 +766,11 @@
     "username": "Banan0s",
     "passwordHash": "$2b$10$BqUiYft3Hwn7JCPvvVJJU.HcveO0KNCaV8mQKaMZnd.Mqs5F83ypS",
     "createdAt": "2026-01-06T10:40:25.787Z"
+  },
+  {
+    "id": "b9c0f0de-ed01-40f3-8f5f-db048b1ad04e",
+    "username": "otashCoder007",
+    "passwordHash": "$2b$10$Y9cwXNyKbqJN5Ir2Mk8Q8u7MxYtbZjSdlGQC801GXH8/6LLHXP5wS",
+    "createdAt": "2026-01-06T10:44:55.862Z"
   }
 ]
