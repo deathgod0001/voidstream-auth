@@ -772,5 +772,11 @@
     "username": "otashCoder007",
     "passwordHash": "$2b$10$Y9cwXNyKbqJN5Ir2Mk8Q8u7MxYtbZjSdlGQC801GXH8/6LLHXP5wS",
     "createdAt": "2026-01-06T10:44:55.862Z"
+  },
+  {
+    "id": "f78237a8-2189-45e2-a968-a658d1ef3879",
+    "username": "DANTE",
+    "passwordHash": "$2b$10$/3/kGxMyzyro47STl2I.A.w2tdGZtlKHXNzZGxpi3RmSuL4XE96bO",
+    "createdAt": "2026-01-06T15:07:59.808Z"
   }
 ]
