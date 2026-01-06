@@ -9,5 +9,15 @@
     "lastPositionSeconds": 0,
     "chapterId": "552-10686500/bleach-chapter-686.5",
     "updatedAt": "2026-01-06T09:47:02.830Z"
+  },
+  {
+    "id": "0db86799-2461-49d1-b24d-03c345050ae5",
+    "userId": "3d744794-3a4a-4f5e-b4e8-7ce49b0c932d",
+    "profileId": "b3429ee8-f495-4e35-a548-be527c7792f2",
+    "tmdbId": 111762,
+    "mediaType": "anime",
+    "progress": 0.00009329849111859176,
+    "lastPositionSeconds": 0.133423,
+    "updatedAt": "2026-01-06T19:17:57.109Z"
   }
 ]
