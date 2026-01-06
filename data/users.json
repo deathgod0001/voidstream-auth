@@ -748,5 +748,11 @@
     "username": "kvrkarthik",
     "passwordHash": "$2b$10$.UZY4hqRK5pbG41ocW2ytuinzLACxpXAlhbW58VGthdRWvPoVyrRq",
     "createdAt": "2026-01-06T08:00:58.109Z"
+  },
+  {
+    "id": "3d744794-3a4a-4f5e-b4e8-7ce49b0c932d",
+    "username": "Akshatt",
+    "passwordHash": "$2b$10$oOk0.qLQ.43yoisY8sxyHeObBD85OwQsCGZs8StVixoQrOVVn/16K",
+    "createdAt": "2026-01-06T09:44:23.238Z"
   }
 ]
