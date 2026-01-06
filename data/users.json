@@ -778,5 +778,11 @@
     "username": "DANTE",
     "passwordHash": "$2b$10$/3/kGxMyzyro47STl2I.A.w2tdGZtlKHXNzZGxpi3RmSuL4XE96bO",
     "createdAt": "2026-01-06T15:07:59.808Z"
+  },
+  {
+    "id": "dfbca7c3-edf1-4ce4-b234-1d43377b9c95",
+    "username": "ExicitedGamerBat ",
+    "passwordHash": "$2b$10$LLqEbWEP2.hzm5lny0MJkuLWueTyIH4lT6/2baRS48yiWlRr8jc3G",
+    "createdAt": "2026-01-06T16:30:45.659Z"
   }
 ]
