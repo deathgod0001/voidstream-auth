@@ -16,14 +16,6 @@
     "watchedAt": "2026-01-03T17:43:30.067Z"
   },
   {
-    "id": "b0d58927-07dd-46eb-b39f-ce0805d4c14a",
-    "userId": "c7e32498-ea6b-4659-a54d-41434c1e5f83",
-    "profileId": "abf5220f-30d0-4f40-a0fd-a0b9d216363c",
-    "tmdbId": 117376,
-    "mediaType": "tv",
-    "watchedAt": "2026-01-04T08:27:12.710Z"
-  },
-  {
     "id": "c30f5bdb-1997-42f7-b162-bb4e52478455",
     "userId": "c7e32498-ea6b-4659-a54d-41434c1e5f83",
     "profileId": "abf5220f-30d0-4f40-a0fd-a0b9d216363c",
@@ -38,5 +30,13 @@
     "tmdbId": 96462,
     "mediaType": "tv",
     "watchedAt": "2026-01-05T15:18:39.196Z"
+  },
+  {
+    "id": "78d1838c-9ad8-44f8-b3da-f8ddf513dd55",
+    "userId": "c7e32498-ea6b-4659-a54d-41434c1e5f83",
+    "profileId": "abf5220f-30d0-4f40-a0fd-a0b9d216363c",
+    "tmdbId": 117376,
+    "mediaType": "tv",
+    "watchedAt": "2026-01-06T11:58:26.987Z"
   }
 ]
