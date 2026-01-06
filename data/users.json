@@ -796,5 +796,11 @@
     "username": "Demon",
     "passwordHash": "$2b$10$XSk0BOgPU8/j.UyDxS9Vp.gCbHj2sbDJ5d6jvvKoAAp3CHVgaf7DG",
     "createdAt": "2026-01-06T18:08:11.065Z"
+  },
+  {
+    "id": "273abb41-8674-48e5-b19b-85df4ed1b004",
+    "username": "Victor1623",
+    "passwordHash": "$2b$10$8qX8nHfBYkFWbPkXGrIiTOF5AttIV9C4FIRYBRIsljn6CAoIDacGW",
+    "createdAt": "2026-01-06T19:03:47.941Z"
   }
 ]
