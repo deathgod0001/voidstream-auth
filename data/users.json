@@ -790,5 +790,11 @@
     "username": "samuel ark",
     "passwordHash": "$2b$10$wkT16OVJ88pNfOTkqCF.VOEesmlPW00ufKljKoCdjGrJwqnmB0Dl.",
     "createdAt": "2026-01-06T17:20:34.006Z"
+  },
+  {
+    "id": "028a6a35-c679-45d4-80cb-dd96745b491b",
+    "username": "Demon",
+    "passwordHash": "$2b$10$XSk0BOgPU8/j.UyDxS9Vp.gCbHj2sbDJ5d6jvvKoAAp3CHVgaf7DG",
+    "createdAt": "2026-01-06T18:08:11.065Z"
   }
 ]
