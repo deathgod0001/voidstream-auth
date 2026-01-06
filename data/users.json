@@ -754,5 +754,11 @@
     "username": "Akshatt",
     "passwordHash": "$2b$10$oOk0.qLQ.43yoisY8sxyHeObBD85OwQsCGZs8StVixoQrOVVn/16K",
     "createdAt": "2026-01-06T09:44:23.238Z"
+  },
+  {
+    "id": "d555a551-fee8-46a9-8c89-f787bcb5ce82",
+    "username": "_.chisty._",
+    "passwordHash": "$2b$10$.JRDc2ZBXGrkrB7eCkVjTuxgsLMWXsM.xa/fvNLcKOzLtcSyY0tHq",
+    "createdAt": "2026-01-06T10:07:04.051Z"
   }
 ]
