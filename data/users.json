@@ -742,5 +742,11 @@
     "username": "Gojo117",
     "passwordHash": "$2b$10$nn96NuKJiO1uHzW5aDEsnuURdodV1nvjhFXrqgRg8PaC1MNXM7TwW",
     "createdAt": "2026-01-05T16:20:21.004Z"
+  },
+  {
+    "id": "456ee1e6-518f-464a-bc5e-ab3a0f0fee0c",
+    "username": "kvrkarthik",
+    "passwordHash": "$2b$10$.UZY4hqRK5pbG41ocW2ytuinzLACxpXAlhbW58VGthdRWvPoVyrRq",
+    "createdAt": "2026-01-06T08:00:58.109Z"
   }
 ]
