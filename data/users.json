@@ -802,5 +802,11 @@
     "username": "Victor1623",
     "passwordHash": "$2b$10$8qX8nHfBYkFWbPkXGrIiTOF5AttIV9C4FIRYBRIsljn6CAoIDacGW",
     "createdAt": "2026-01-06T19:03:47.941Z"
+  },
+  {
+    "id": "0d8349c5-d856-46c7-99cb-36235f05e5f4",
+    "username": "storyverseotaku",
+    "passwordHash": "$2b$10$omHHfMOomZ2MRRI4IRh78ecVeevArueZIn.z1In.hG/wgnslBiSxW",
+    "createdAt": "2026-01-07T03:13:55.639Z"
   }
 ]
