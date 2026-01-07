@@ -86,5 +86,13 @@
     "tmdbId": 243964,
     "mediaType": "tv",
     "addedAt": "2026-01-07T17:10:12.914Z"
+  },
+  {
+    "id": "5515de36-4e71-48c9-b48e-f1aa20ebca92",
+    "userId": "eab85ad4-363d-4ca0-8863-b887570bd49f",
+    "profileId": "9a78e0fa-988a-4fe4-8649-e3a707af907b",
+    "tmdbId": 280948,
+    "mediaType": "tv",
+    "addedAt": "2026-01-07T17:11:13.371Z"
   }
 ]
