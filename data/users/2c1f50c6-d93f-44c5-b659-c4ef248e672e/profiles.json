@@ -5,5 +5,14 @@
     "displayName": "himanshu2807",
     "avatarColor": "bg-purple-600",
     "createdAt": "2026-01-07T07:05:37.058Z"
+  },
+  {
+    "id": "2ae12868-79b6-4d5d-9806-7225496af619",
+    "userId": "2c1f50c6-d93f-44c5-b659-c4ef248e672e",
+    "displayName": "Panda",
+    "avatarColor": "bg-yellow-600",
+    "avatarEmoji": "👤",
+    "avatarImage": null,
+    "createdAt": "2026-01-07T07:06:08.475Z"
   }
 ]
