@@ -814,5 +814,11 @@
     "username": "himanshu2807",
     "passwordHash": "$2b$10$KUfAHxCFaPmgzbamaU26suDIRrNw5lWsget1EwHsyz1pQHZDiid0C",
     "createdAt": "2026-01-07T07:05:36.546Z"
+  },
+  {
+    "id": "f58ab768-bc3d-451e-811b-3d81ee56a15a",
+    "username": "Trafalger.D.Law",
+    "passwordHash": "$2b$10$FatlbzfEve/ohZ4ITawoneDrHvYBC6vEuKAstg2aZ3myfgnD3jwq2",
+    "createdAt": "2026-01-07T18:02:22.740Z"
   }
 ]
