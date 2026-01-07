@@ -808,5 +808,11 @@
     "username": "storyverseotaku",
     "passwordHash": "$2b$10$omHHfMOomZ2MRRI4IRh78ecVeevArueZIn.z1In.hG/wgnslBiSxW",
     "createdAt": "2026-01-07T03:13:55.639Z"
+  },
+  {
+    "id": "2c1f50c6-d93f-44c5-b659-c4ef248e672e",
+    "username": "himanshu2807",
+    "passwordHash": "$2b$10$KUfAHxCFaPmgzbamaU26suDIRrNw5lWsget1EwHsyz1pQHZDiid0C",
+    "createdAt": "2026-01-07T07:05:36.546Z"
   }
 ]
