@@ -53,13 +53,13 @@
     "updatedAt": "2026-01-06T15:03:28.748Z"
   },
   {
-    "id": "3c5e6336-6d7d-4b07-846f-89c8848873b2",
+    "id": "648441db-0ddf-4f28-8fe1-e076d48ba066",
     "userId": "06b9e895-8781-4319-8ebe-dccd91fe3488",
     "profileId": "d0ce9644-516a-4003-badf-02ad7e28e7e7",
     "tmdbId": 187264,
     "mediaType": "anime",
-    "progress": 0.1054364823943663,
-    "lastPositionSeconds": 149.719805,
-    "updatedAt": "2026-01-08T00:23:00.852Z"
+    "progress": 0.10581534014084516,
+    "lastPositionSeconds": 150.257783,
+    "updatedAt": "2026-01-08T00:23:01.394Z"
   }
 ]
