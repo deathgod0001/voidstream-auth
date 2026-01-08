@@ -820,5 +820,11 @@
     "username": "Trafalger.D.Law",
     "passwordHash": "$2b$10$FatlbzfEve/ohZ4ITawoneDrHvYBC6vEuKAstg2aZ3myfgnD3jwq2",
     "createdAt": "2026-01-07T18:02:22.740Z"
+  },
+  {
+    "id": "ef648038-f0df-47f0-a825-757db009a94c",
+    "username": "Priyanshu Kamani ",
+    "passwordHash": "$2b$10$94AYd9kwEeFTxm2moXaDpeaforFDIWl.TRdzdK6X6jNG8uAzRJ3LW",
+    "createdAt": "2026-01-08T01:50:56.426Z"
   }
 ]
