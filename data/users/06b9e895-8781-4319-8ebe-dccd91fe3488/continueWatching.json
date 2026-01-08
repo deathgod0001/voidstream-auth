@@ -61,5 +61,15 @@
     "progress": 0.26613338380281715,
     "lastPositionSeconds": 377.909405,
     "updatedAt": "2026-01-08T00:26:54.967Z"
+  },
+  {
+    "id": "a780a0a3-0cec-4d35-913e-391ea1efcee0",
+    "userId": "06b9e895-8781-4319-8ebe-dccd91fe3488",
+    "profileId": "d0ce9644-516a-4003-badf-02ad7e28e7e7",
+    "tmdbId": 19769,
+    "mediaType": "anime",
+    "progress": 0.00001688143814346949,
+    "lastPositionSeconds": 0.024474,
+    "updatedAt": "2026-01-08T03:45:28.196Z"
   }
 ]
